@@ -15,7 +15,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 13,2500,3,2,True,True,145,flat,Sarria-Sant Gervasi,17.24137931034483
 14,980,2,2,True,False,82,flat,Eixample,11.951219512195122
 15,1050,2,1,True,False,66,flat,Eixample,15.909090909090908
-16,1500,4,3,True,False,129,,Horta- Guinardo,11.627906976744184
 17,1350,3,2,True,False,95,flat,Eixample,14.210526315789474
 18,1080,3,2,True,False,92,flat,Gràcia,11.73913043478261
 19,2500,3,2,True,False,130,flat,Les Corts,19.23076923076923
@@ -56,13 +55,11 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 54,1060,4,2,True,False,90,flat,Sant Andreu,11.77777777777778
 55,1350,3,2,True,False,104,flat,Sarria-Sant Gervasi,12.98076923076923
 56,900,4,1,True,False,80,flat,Eixample,11.25
-57,2700,4,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
 58,1600,2,2,True,False,100,flat,Eixample,16.0
 59,625,2,1,True,False,41,flat,Horta- Guinardo,15.24390243902439
 60,2550,2,2,True,False,137,flat,Ciutat Vella,18.613138686131386
 61,925,4,2,True,True,101,flat,Sant Martí,9.15841584158416
 62,2200,2,2,True,True,79,attic,Sant Martí,27.848101265822784
-63,2700,3,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
 64,1290,2,1,True,False,70,flat,Les Corts,18.428571428571427
 65,3000,3,2,False,False,150,apartment,Eixample,20.0
 66,780,2,1,False,False,62,flat,Horta- Guinardo,12.580645161290322
@@ -77,12 +74,10 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 75,950,4,1,True,False,79,flat,Sant Andreu,12.025316455696204
 76,1850,3,3,True,False,140,flat,Sarria-Sant Gervasi,13.214285714285714
 77,1080,3,1,True,False,72,flat,Sant Martí,15.0
-78,710,1,1,True,False,90,,Sants-Montjuïc,7.888888888888889
 79,2200,4,2,False,False,90,apartment,Gràcia,24.444444444444443
 80,3468,3,2,False,False,98,apartment,Ciutat Vella,35.38775510204081
 81,1100,1,1,True,False,45,apartment,Les Corts,24.444444444444443
 82,1700,2,2,True,False,73,flat,Sant Martí,23.28767123287671
-83,590,0,1,False,False,46,,Ciutat Vella,12.826086956521738
 84,770,1,1,False,False,55,flat,Sants-Montjuïc,14.0
 85,3300,3,1,True,False,151,flat,Sarria-Sant Gervasi,21.85430463576159
 86,700,2,1,False,False,50,flat,Sants-Montjuïc,14.0
@@ -134,8 +129,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 132,2400,3,3,True,False,140,flat,Sarria-Sant Gervasi,17.142857142857142
 133,1170,2,1,True,True,72,flat,Eixample,16.25
 134,2200,2,1,True,False,65,flat,Sarria-Sant Gervasi,33.84615384615385
-135,2700,3,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
-136,1600,0,1,True,False,60,,Eixample,26.666666666666668
 137,1300,3,1,True,False,85,flat,Eixample,15.294117647058824
 138,650,0,1,True,False,28,apartment,Ciutat Vella,23.214285714285715
 139,730,1,1,False,False,40,flat,Ciutat Vella,18.25
@@ -212,7 +205,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 210,1000,2,3,True,False,70,apartment,Ciutat Vella,14.285714285714286
 211,1200,1,1,True,False,65,flat,Ciutat Vella,18.46153846153846
 212,1250,2,1,True,True,62,apartment,Ciutat Vella,20.161290322580644
-213,1100,1,1,True,False,110,,Ciutat Vella,10.0
 214,2300,4,3,True,False,147,apartment,Ciutat Vella,15.64625850340136
 215,1350,2,2,False,False,60,flat,Ciutat Vella,22.5
 216,1200,2,2,False,False,70,flat,Ciutat Vella,17.142857142857142
@@ -247,7 +239,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 245,1900,1,1,False,True,80,flat,Gràcia,23.75
 246,1300,3,1,False,True,85,flat,Gràcia,15.294117647058824
 247,1400,3,2,False,False,125,flat,Gràcia,11.2
-248,1835,1,1,True,False,59,,Gràcia,31.10169491525424
 249,1400,2,1,True,False,55,flat,Gràcia,25.454545454545453
 250,1900,1,1,False,True,80,flat,Gràcia,23.75
 251,1500,1,1,False,True,94,flat,Gràcia,15.95744680851064
@@ -287,7 +278,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 285,3200,5,3,True,False,200,flat,Les Corts,16.0
 286,3400,5,3,True,False,200,flat,Les Corts,17.0
 287,3200,4,3,True,True,148,flat,Sarria-Sant Gervasi,21.62162162162162
-288,3800,3,4,True,False,218,,Eixample,17.431192660550458
 289,1500,2,2,True,False,88,flat,Sarria-Sant Gervasi,17.045454545454547
 290,2300,4,2,True,False,158,flat,Sarria-Sant Gervasi,14.556962025316457
 291,1100,2,1,True,False,57,flat,Eixample,19.29824561403509
@@ -311,14 +301,12 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 309,650,1,1,True,False,25,flat,Eixample,26.0
 310,750,1,1,False,False,22,flat,Ciutat Vella,34.09090909090909
 311,1080,2,1,False,False,75,flat,Sarria-Sant Gervasi,14.4
-312,8482,4,7,True,True,225,flat,Les Corts,37.69777777777778
 313,890,1,1,True,False,54,flat,Sarria-Sant Gervasi,16.48148148148148
 314,3500,2,2,True,True,152,flat,Sarria-Sant Gervasi,23.026315789473685
 315,3219,3,2,True,True,120,flat,Sarria-Sant Gervasi,26.825
 316,3400,3,3,True,True,220,flat,Sarria-Sant Gervasi,15.454545454545457
 317,1200,2,2,False,False,98,flat,Ciutat Vella,12.244897959183673
 318,1626,3,2,True,True,81,flat,Eixample,20.074074074074076
-319,3200,4,3,True,True,200,,Sarria-Sant Gervasi,16.0
 320,750,1,1,False,False,40,flat,Ciutat Vella,18.75
 321,3500,4,4,True,True,188,flat,Sarria-Sant Gervasi,18.617021276595743
 322,1200,2,1,False,False,50,flat,Sants-Montjuïc,24.0
@@ -339,9 +327,7 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 337,2500,3,2,True,True,145,flat,Sarria-Sant Gervasi,17.24137931034483
 338,2000,3,2,True,True,110,flat,Eixample,18.181818181818183
 339,1590,3,2,True,False,110,flat,Eixample,14.454545454545457
-340,3000,3,3,True,True,174,,Ciutat Vella,17.24137931034483
 341,5200,3,2,True,True,150,flat,Ciutat Vella,34.666666666666664
-342,2600,3,2,False,True,136,,Sant Martí,19.11764705882353
 343,1000,3,1,False,False,63,flat,Gràcia,15.873015873015872
 344,1900,2,2,True,True,92,flat,Gràcia,20.65217391304348
 345,3800,2,2,True,True,100,flat,Ciutat Vella,38.0
@@ -361,7 +347,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 359,1150,1,1,True,True,45,flat,Ciutat Vella,25.55555555555556
 360,3300,4,3,True,False,174,flat,Sarria-Sant Gervasi,18.96551724137931
 361,1750,4,2,True,True,100,flat,Sant Martí,17.5
-362,900,1,1,False,True,47,,Sants-Montjuïc,19.148936170212767
 363,2200,3,2,True,False,110,flat,Eixample,20.0
 364,2200,4,2,True,True,175,flat,Eixample,12.571428571428571
 365,975,1,1,True,False,51,flat,Ciutat Vella,19.11764705882353
@@ -392,11 +377,9 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 390,1700,2,1,True,True,95,apartment,Ciutat Vella,17.894736842105264
 391,2000,3,2,True,False,92,flat,Sant Martí,21.73913043478261
 392,1450,2,2,False,False,80,attic,Sarria-Sant Gervasi,18.125
-393,550,1,1,False,False,38,,Horta- Guinardo,14.473684210526317
 394,3833,3,2,True,True,135,flat,Les Corts,28.392592592592592
 395,2400,3,3,True,False,148,flat,Sarria-Sant Gervasi,16.216216216216218
 396,3200,4,3,True,True,155,attic,Sarria-Sant Gervasi,20.64516129032258
-397,4600,4,4,True,True,270,,Sarria-Sant Gervasi,17.037037037037038
 398,3850,5,3,True,False,260,flat,Sarria-Sant Gervasi,14.807692307692308
 399,9075,4,5,True,True,215,attic,Sarria-Sant Gervasi,42.2093023255814
 400,7000,5,5,True,True,400,flat,Sarria-Sant Gervasi,17.5
@@ -405,7 +388,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 403,5300,4,5,False,True,260,flat,Sarria-Sant Gervasi,20.384615384615383
 404,3000,3,2,True,False,160,flat,Sarria-Sant Gervasi,18.75
 405,4700,4,3,True,True,224,flat,Sarria-Sant Gervasi,20.982142857142858
-406,620,0,1,True,False,29,,Les Corts,21.379310344827587
 407,920,3,1,True,False,76,flat,Sant Martí,12.105263157894736
 408,895,1,1,True,False,55,flat,Eixample,16.272727272727273
 409,750,3,1,True,False,67,flat,Sant Andreu,11.194029850746269
@@ -416,7 +398,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 414,850,3,1,True,False,58,flat,Sants-Montjuïc,14.655172413793103
 415,995,1,1,True,False,50,flat,Sarria-Sant Gervasi,19.9
 416,995,1,1,False,True,42,attic,Gràcia,23.69047619047619
-417,1650,3,3,True,False,85,,Eixample,19.41176470588235
 418,800,1,1,True,False,50,flat,Sarria-Sant Gervasi,16.0
 419,3200,4,3,True,True,120,attic,Sarria-Sant Gervasi,26.666666666666668
 420,2800,4,3,True,False,200,flat,Les Corts,14.0
@@ -436,7 +417,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 434,1130,3,2,True,False,89,flat,Eixample,12.696629213483146
 435,1150,2,1,False,True,50,attic,Sarria-Sant Gervasi,23.0
 436,1195,3,1,True,False,74,flat,Eixample,16.14864864864865
-437,520,1,1,True,False,25,,Ciutat Vella,20.8
 438,840,2,1,True,False,55,flat,Sants-Montjuïc,15.272727272727272
 439,760,2,1,False,False,67,flat,Sants-Montjuïc,11.343283582089551
 440,1400,1,1,True,True,60,flat,Sant Martí,23.33333333333333
@@ -449,11 +429,9 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 447,1150,2,2,True,False,60,flat,Sant Martí,19.166666666666668
 448,2000,4,3,True,False,154,flat,Sant Martí,12.987012987012989
 449,1500,3,2,True,False,104,attic,Sant Martí,14.423076923076923
-450,1900,2,2,True,False,85,,Sant Martí,22.352941176470587
 451,1800,1,1,True,True,60,attic,Sant Martí,30.0
 452,10000,3,3,True,True,185,attic,Sant Martí,54.054054054054056
 453,6000,3,2,True,True,240,flat,Sant Martí,25.0
-454,2520,3,2,True,False,193,,Sant Martí,13.05699481865285
 455,2400,3,2,True,True,120,flat,Sant Martí,20.0
 456,1500,3,2,True,True,66,flat,Sant Martí,22.727272727272727
 457,2600,3,2,True,True,121,flat,Sant Martí,21.487603305785125
@@ -473,7 +451,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 471,8500,4,3,True,True,190,attic,Les Corts,44.73684210526316
 472,1900,0,3,True,True,145,flat,Les Corts,13.10344827586207
 473,1600,2,2,True,False,70,flat,Les Corts,22.857142857142858
-474,1700,2,1,True,True,90,,Les Corts,18.88888888888889
 475,1300,2,1,True,True,55,apartment,Les Corts,23.63636363636364
 476,2300,2,2,True,True,130,apartment,Les Corts,17.692307692307693
 477,2600,3,2,True,True,177,flat,Les Corts,14.689265536723164
@@ -500,13 +477,9 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 498,800,3,2,True,False,83,flat,Sants-Montjuïc,9.63855421686747
 499,650,2,1,False,False,56,flat,Horta- Guinardo,11.607142857142858
 500,825,1,1,False,False,50,flat,Gràcia,16.5
-501,1600,0,1,True,False,60,,Eixample,26.666666666666668
 502,890,1,1,True,False,55,flat,Eixample,16.181818181818183
 503,900,3,1,True,False,75,flat,Sants-Montjuïc,12.0
-504,2400,3,2,True,False,140,,Sarria-Sant Gervasi,17.142857142857142
 505,1000,3,2,True,False,74,flat,Sants-Montjuïc,13.513513513513514
-506,2500,3,3,True,False,140,,Sarria-Sant Gervasi,17.857142857142858
-507,2700,3,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
 508,2000,2,1,True,False,65,flat,Sarria-Sant Gervasi,30.76923076923077
 509,790,2,1,True,False,88,flat,Sant Andreu,8.977272727272727
 510,1600,4,2,True,False,122,flat,Eixample,13.114754098360656
@@ -522,13 +495,10 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 520,935,2,1,True,False,65,attic,Sants-Montjuïc,14.384615384615383
 521,875,1,1,True,True,54,flat,Sarria-Sant Gervasi,16.203703703703702
 522,2200,4,3,True,True,235,flat,Sarria-Sant Gervasi,9.361702127659576
-523,850,0,1,False,False,60,,Ciutat Vella,14.166666666666666
 524,1800,4,2,True,False,90,attic,Sant Martí,20.0
 525,1500,2,1,True,False,75,flat,Eixample,20.0
 526,12000,3,3,True,True,200,attic,Sant Martí,60.0
-527,3000,4,3,True,True,130,,Eixample,23.07692307692308
 528,2200,3,2,True,True,123,flat,Eixample,17.88617886178862
-529,1850,2,3,True,False,150,,Les Corts,12.333333333333334
 530,2120,3,2,True,False,100,flat,Eixample,21.2
 531,1500,2,1,True,False,50,flat,Eixample,30.0
 532,1350,3,2,False,False,111,flat,Sarria-Sant Gervasi,12.16216216216216
@@ -539,7 +509,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 537,2500,2,1,True,False,70,flat,Ciutat Vella,35.714285714285715
 538,1900,2,1,True,False,70,flat,Eixample,27.142857142857142
 539,1950,2,2,True,True,91,flat,Ciutat Vella,21.428571428571427
-540,1600,1,1,True,False,70,,Eixample,22.857142857142858
 541,1300,1,1,False,False,55,flat,Sarria-Sant Gervasi,23.63636363636364
 542,5500,4,2,True,True,230,flat,Sant Martí,23.91304347826087
 543,750,1,1,True,False,47,flat,Sarria-Sant Gervasi,15.95744680851064
@@ -575,7 +544,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 573,1400,3,2,False,True,104,flat,Eixample,13.461538461538462
 574,770,1,1,False,False,59,flat,Sants-Montjuïc,13.05084745762712
 575,950,2,1,True,True,69,flat,Eixample,13.768115942028986
-576,900,1,1,True,False,56,,Sant Martí,16.071428571428573
 577,2800,2,2,True,True,96,flat,Sarria-Sant Gervasi,29.166666666666668
 578,2300,5,2,True,True,150,flat,Eixample,15.333333333333334
 579,8000,4,4,True,True,350,attic,Eixample,22.857142857142858
@@ -605,7 +573,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 603,1100,2,1,False,False,60,flat,Les Corts,18.33333333333333
 604,1500,2,1,True,True,56,flat,Eixample,26.785714285714285
 605,900,1,1,True,False,45,flat,Ciutat Vella,20.0
-606,1950,3,2,False,False,140,,Les Corts,13.928571428571429
 607,2550,4,2,True,True,166,flat,Les Corts,15.36144578313253
 608,1800,2,1,True,True,70,flat,Ciutat Vella,25.714285714285715
 609,1400,2,1,True,False,77,flat,Eixample,18.181818181818183
@@ -619,8 +586,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 617,900,2,2,True,False,70,flat,Sants-Montjuïc,12.857142857142858
 618,3300,3,2,True,True,160,flat,Sarria-Sant Gervasi,20.625
 619,750,1,1,False,False,40,flat,Ciutat Vella,18.75
-620,1390,2,1,True,False,78,,Sant Martí,17.82051282051282
-621,900,2,1,False,False,50,,Eixample,18.0
 622,1150,1,1,True,False,50,flat,Eixample,23.0
 623,900,2,2,False,False,70,flat,Sants-Montjuïc,12.857142857142858
 624,2300,4,2,True,True,128,flat,Sarria-Sant Gervasi,17.96875
@@ -675,7 +640,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 673,1145,2,1,True,False,58,flat,Eixample,19.74137931034483
 674,890,2,1,True,False,60,flat,Eixample,14.833333333333334
 675,795,0,1,True,False,34,flat,Sarria-Sant Gervasi,23.38235294117647
-676,800,1,1,False,False,51,,Gràcia,15.68627450980392
 677,680,1,1,True,False,55,flat,Ciutat Vella,12.363636363636363
 678,865,2,1,False,False,68,flat,Gràcia,12.720588235294118
 679,1320,3,2,True,False,94,flat,Sarria-Sant Gervasi,14.04255319148936
@@ -720,7 +684,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 718,750,2,1,False,False,50,flat,Sants-Montjuïc,15.0
 719,1250,3,2,True,False,92,flat,Eixample,13.58695652173913
 720,1000,2,1,True,False,73,flat,Sant Andreu,13.6986301369863
-721,1325,3,2,True,True,106,,Sant Andreu,12.5
 722,1100,1,1,True,False,55,apartment,Sarria-Sant Gervasi,20.0
 723,1200,2,1,True,False,72,apartment,Eixample,16.666666666666668
 724,800,3,1,True,False,64,flat,Eixample,12.5
@@ -733,13 +696,11 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 731,2700,4,3,True,False,170,flat,Sarria-Sant Gervasi,15.882352941176473
 732,1220,3,1,True,False,99,flat,Sarria-Sant Gervasi,12.323232323232324
 733,700,1,2,False,False,100,flat,Sant Andreu,7.0
-734,995,3,2,False,True,110,,Sants-Montjuïc,9.045454545454543
 735,1000,3,2,True,False,65,flat,Les Corts,15.384615384615383
 736,850,2,1,True,False,58,apartment,Eixample,14.655172413793103
 737,995,3,2,False,True,109,flat,Sants-Montjuïc,9.128440366972477
 738,750,3,1,False,False,60,flat,Gràcia,12.5
 739,865,1,1,True,False,60,flat,Sant Martí,14.416666666666666
-740,900,1,1,True,False,46,,Eixample,19.565217391304348
 741,1000,4,2,True,False,100,flat,Gràcia,10.0
 742,1250,2,1,False,False,65,flat,Gràcia,19.23076923076923
 743,990,3,1,False,False,75,flat,Sarria-Sant Gervasi,13.2
@@ -779,7 +740,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 777,850,3,1,True,False,72,flat,Sant Martí,11.805555555555555
 778,995,2,1,True,False,50,flat,Sant Martí,19.9
 779,900,3,1,True,False,54,flat,Sant Martí,16.666666666666668
-780,980,1,1,False,True,90,,Gràcia,10.88888888888889
 781,750,2,1,False,False,30,flat,Ciutat Vella,25.0
 782,950,3,1,True,False,100,flat,Sants-Montjuïc,9.5
 783,850,2,1,False,False,60,flat,Ciutat Vella,14.166666666666666
@@ -887,7 +847,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 885,4600,5,3,False,True,250,flat,Eixample,18.4
 886,1500,3,2,True,False,100,flat,Eixample,15.0
 887,1400,3,2,True,False,110,flat,Eixample,12.727272727272728
-888,2950,4,2,True,True,180,,Eixample,16.38888888888889
 889,3900,3,3,True,True,160,flat,Eixample,24.375
 890,1200,3,1,True,False,76,flat,Eixample,15.789473684210526
 891,3300,4,2,False,False,200,flat,Eixample,16.5
@@ -899,8 +858,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 897,1700,2,2,True,False,100,flat,Eixample,17.0
 898,1850,3,2,True,False,110,flat,Eixample,16.818181818181817
 899,2200,2,2,True,False,121,apartment,Eixample,18.181818181818183
-900,2200,2,1,True,False,110,,Eixample,20.0
-901,3000,4,2,True,True,112,,Eixample,26.785714285714285
 902,1750,2,2,True,False,75,flat,Eixample,23.33333333333333
 903,3500,0,3,True,True,260,apartment,Eixample,13.461538461538462
 904,1500,2,1,False,False,90,flat,Eixample,16.666666666666668
@@ -942,8 +899,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 940,600,2,1,False,False,31,flat,Ciutat Vella,19.35483870967742
 941,600,1,1,False,False,31,flat,Ciutat Vella,19.35483870967742
 942,800,3,1,True,False,70,flat,Eixample,11.428571428571429
-943,1550,2,1,True,True,109,,Sant Martí,14.220183486238533
-944,1250,1,2,True,True,85,,Sarria-Sant Gervasi,14.705882352941176
 945,2250,5,4,True,True,189,flat,Eixample,11.904761904761903
 946,1150,2,1,True,False,70,flat,Ciutat Vella,16.428571428571427
 947,1870,3,2,True,False,130,flat,Eixample,14.384615384615383
@@ -952,7 +907,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 950,840,2,1,True,False,50,apartment,Les Corts,16.8
 951,900,1,1,False,False,40,flat,Eixample,22.5
 952,790,3,1,True,False,65,flat,Horta- Guinardo,12.153846153846152
-953,800,1,1,False,False,60,,Gràcia,13.333333333333334
 954,700,3,2,False,True,51,flat,Sants-Montjuïc,13.72549019607843
 955,685,3,1,False,False,80,flat,Horta- Guinardo,8.5625
 956,1000,1,1,True,False,30,flat,Sarria-Sant Gervasi,33.333333333333336
@@ -1031,12 +985,10 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1029,742,1,1,True,False,56,flat,Ciutat Vella,13.25
 1030,750,3,1,False,False,58,flat,Les Corts,12.93103448275862
 1031,900,2,2,True,True,65,flat,Sants-Montjuïc,13.846153846153848
-1032,2700,3,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
 1033,2200,2,1,True,False,65,flat,Sarria-Sant Gervasi,33.84615384615385
 1034,2000,2,1,True,False,65,flat,Sarria-Sant Gervasi,30.76923076923077
 1035,1070,2,1,True,False,81,flat,Eixample,13.209876543209877
 1036,950,2,1,True,False,55,flat,Les Corts,17.272727272727273
-1037,1700,2,1,True,False,85,,Sarria-Sant Gervasi,20.0
 1038,990,2,2,True,False,87,flat,Ciutat Vella,11.379310344827584
 1039,380,1,1,True,False,10,study,Sant Martí,38.0
 1040,2800,3,2,True,True,125,flat,Sarria-Sant Gervasi,22.4
@@ -1073,7 +1025,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1071,1195,2,1,True,False,63,flat,Eixample,18.96825396825397
 1072,1050,4,2,True,False,110,flat,Sants-Montjuïc,9.545454545454543
 1073,880,3,1,True,False,68,flat,Sant Martí,12.941176470588236
-1074,900,2,2,True,True,54,,Sants-Montjuïc,16.666666666666668
 1075,1520,4,3,True,False,120,flat,Les Corts,12.666666666666666
 1076,840,1,1,True,False,55,flat,Les Corts,15.272727272727272
 1077,1300,2,2,True,False,100,flat,Eixample,13.0
@@ -1088,7 +1039,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1086,1185,2,1,False,False,48,flat,Sant Martí,24.6875
 1087,650,1,1,True,False,30,study,Sant Martí,21.666666666666668
 1088,815,4,1,False,False,60,flat,Sant Martí,13.583333333333334
-1089,2700,4,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
 1090,2000,2,1,True,False,65,attic,Sarria-Sant Gervasi,30.76923076923077
 1091,2400,3,1,True,False,85,attic,Sarria-Sant Gervasi,28.235294117647054
 1092,4500,3,2,False,False,105,flat,Eixample,42.85714285714285
@@ -1098,8 +1048,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1096,4500,3,2,True,True,85,flat,Eixample,52.94117647058823
 1097,4500,4,3,True,False,180,flat,Sarria-Sant Gervasi,25.0
 1098,1400,2,1,True,False,80,attic,Sarria-Sant Gervasi,17.5
-1099,2400,3,3,True,False,140,,Sarria-Sant Gervasi,17.142857142857142
-1100,2300,3,2,True,False,140,,Sarria-Sant Gervasi,16.428571428571427
 1101,850,2,1,True,False,55,flat,Sarria-Sant Gervasi,15.454545454545457
 1102,1150,2,1,True,False,68,flat,Sarria-Sant Gervasi,16.91176470588235
 1103,895,2,1,True,False,79,flat,Sant Martí,11.329113924050631
@@ -1121,12 +1069,8 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1119,1000,3,1,True,True,90,flat,Sant Martí,11.11111111111111
 1120,1400,2,1,True,False,80,flat,Sarria-Sant Gervasi,17.5
 1121,975,1,1,True,False,41,flat,Ciutat Vella,23.78048780487805
-1122,3200,3,2,True,False,85,,Sarria-Sant Gervasi,37.64705882352941
-1123,2700,4,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
 1124,2000,2,1,True,False,65,flat,Sarria-Sant Gervasi,30.76923076923077
-1125,2800,1,1,True,False,75,,Gràcia,37.333333333333336
 1126,675,2,1,True,False,43,flat,Sant Martí,15.69767441860465
-1127,3200,3,2,True,False,85,,Sarria-Sant Gervasi,37.64705882352941
 1128,2210,3,2,True,False,92,flat,Sant Martí,24.02173913043478
 1129,3400,5,3,True,False,220,apartment,Sarria-Sant Gervasi,15.454545454545457
 1130,1600,2,1,True,False,50,apartment,Ciutat Vella,32.0
@@ -1287,7 +1231,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1285,800,3,1,False,False,50,flat,Sants-Montjuïc,16.0
 1286,950,4,2,False,False,66,flat,Gràcia,14.393939393939394
 1287,800,3,1,True,False,80,flat,Sant Martí,10.0
-1288,1950,1,2,False,True,176,,Ciutat Vella,11.079545454545457
 1289,900,3,2,True,True,75,flat,Ciutat Vella,12.0
 1290,875,3,1,False,True,71,flat,Gràcia,12.32394366197183
 1291,677,3,1,False,False,50,flat,Horta- Guinardo,13.54
@@ -1331,7 +1274,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1329,997,4,1,True,False,64,flat,Eixample,15.578125
 1330,1350,3,2,True,True,85,flat,Sant Martí,15.882352941176473
 1331,1380,4,2,True,True,100,flat,Eixample,13.8
-1332,875,1,2,False,False,80,,Gràcia,10.9375
 1333,2000,4,3,True,False,181,flat,Sarria-Sant Gervasi,11.049723756906078
 1334,750,1,1,True,False,65,study,Ciutat Vella,11.538461538461538
 1335,877,3,1,True,False,71,flat,Sants-Montjuïc,12.352112676056338
@@ -1373,7 +1315,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1371,1200,1,1,False,False,50,study,Sant Martí,24.0
 1372,825,1,1,False,False,63,flat,Sant Martí,13.095238095238097
 1373,832,1,1,True,True,52,flat,Eixample,16.0
-1374,2800,4,3,True,True,175,,Sarria-Sant Gervasi,16.0
 1375,900,2,1,True,False,50,flat,Sant Martí,18.0
 1376,1100,3,1,True,False,70,flat,Les Corts,15.714285714285714
 1377,850,3,1,False,False,55,flat,Sant Martí,15.454545454545457
@@ -1415,13 +1356,11 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1413,1950,4,2,True,False,130,flat,Ciutat Vella,15.0
 1414,950,1,1,False,False,68,flat,Ciutat Vella,13.970588235294118
 1415,1000,1,1,True,True,51,flat,Ciutat Vella,19.607843137254903
-1416,3600,3,4,True,True,211,,Eixample,17.061611374407583
 1417,1550,2,2,True,False,89,flat,Ciutat Vella,17.415730337078653
 1418,1161,4,2,True,False,80,flat,Eixample,14.5125
 1419,1600,3,2,True,False,82,flat,Sarria-Sant Gervasi,19.51219512195122
 1420,1080,1,1,True,False,86,flat,Ciutat Vella,12.55813953488372
 1421,2300,3,2,True,True,100,flat,Eixample,23.0
-1422,1300,2,1,False,False,80,,Sant Martí,16.25
 1423,1290,3,2,True,False,94,flat,Ciutat Vella,13.72340425531915
 1424,2500,3,2,True,True,120,flat,Sant Martí,20.83333333333333
 1425,1429,4,2,True,False,131,flat,Ciutat Vella,10.908396946564883
@@ -1525,7 +1464,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1524,1300,2,1,True,True,75,flat,Sant Martí,17.333333333333332
 1525,2800,5,2,True,True,225,flat,Eixample,12.444444444444445
 1526,1400,2,2,True,False,98,flat,Eixample,14.285714285714286
-1527,700,0,1,True,False,40,,Sarria-Sant Gervasi,17.5
 1528,4034,4,3,True,True,165,flat,Sarria-Sant Gervasi,24.44848484848485
 1529,900,3,1,True,True,77,flat,Eixample,11.688311688311687
 1530,860,2,2,True,False,65,flat,Ciutat Vella,13.23076923076923
@@ -1547,11 +1485,9 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1546,840,2,1,False,False,53,flat,Gràcia,15.849056603773583
 1547,1100,3,1,True,True,75,flat,Gràcia,14.666666666666666
 1548,950,3,1,False,False,90,flat,Ciutat Vella,10.555555555555555
-1549,1000,1,1,True,False,55,,Sant Martí,18.181818181818183
 1550,840,2,1,False,False,53,flat,Gràcia,15.849056603773583
 1551,1100,3,1,True,True,75,flat,Gràcia,14.666666666666666
 1552,950,3,1,False,False,90,flat,Ciutat Vella,10.555555555555555
-1553,1000,1,1,True,False,55,,Sant Martí,18.181818181818183
 1554,1800,1,1,True,False,46,apartment,Sant Martí,39.130434782608695
 1555,3000,2,2,True,False,77,apartment,Sant Martí,38.96103896103896
 1556,2200,1,1,True,False,112,flat,Sarria-Sant Gervasi,19.642857142857142
@@ -1579,7 +1515,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1578,800,1,1,False,False,40,study,Ciutat Vella,20.0
 1579,1100,3,2,True,True,95,flat,Sant Martí,11.578947368421051
 1580,1400,2,2,True,True,85,flat,Eixample,16.470588235294116
-1581,600,1,1,True,False,20,,Sants-Montjuïc,30.0
 1582,1650,4,2,True,False,135,flat,Sarria-Sant Gervasi,12.22222222222222
 1583,995,2,1,False,False,75,flat,Eixample,13.266666666666667
 1584,679,2,1,False,False,47,flat,Sants-Montjuïc,14.4468085106383
@@ -1613,7 +1548,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1612,790,2,1,True,False,57,flat,Sants-Montjuïc,13.859649122807015
 1613,850,3,1,True,False,70,flat,Gràcia,12.142857142857142
 1614,950,1,1,True,False,50,flat,Ciutat Vella,19.0
-1615,750,1,1,False,False,43,,Ciutat Vella,17.441860465116278
 1616,895,1,1,False,False,63,flat,Ciutat Vella,14.206349206349206
 1617,850,1,1,True,False,42,flat,Eixample,20.23809523809524
 1618,1095,2,1,False,False,69,flat,Sants-Montjuïc,15.869565217391305
@@ -1729,7 +1663,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1728,1450,4,2,True,False,127,flat,Eixample,11.417322834645669
 1729,770,2,1,False,True,42,attic,Sants-Montjuïc,18.33333333333333
 1730,690,2,1,True,False,56,flat,Horta- Guinardo,12.321428571428571
-1731,1150,1,2,False,False,63,,Sarria-Sant Gervasi,18.253968253968253
 1732,1400,2,2,True,False,90,flat,Sarria-Sant Gervasi,15.555555555555555
 1733,1100,3,2,True,False,90,flat,Eixample,12.22222222222222
 1734,3500,5,4,True,True,207,flat,Sarria-Sant Gervasi,16.908212560386474
@@ -1752,7 +1685,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1751,1300,3,2,True,True,100,flat,Eixample,13.0
 1752,1250,3,2,True,False,80,flat,Sarria-Sant Gervasi,15.625
 1753,1290,3,3,True,False,116,flat,Eixample,11.120689655172416
-1754,650,0,1,False,False,35,,Ciutat Vella,18.571428571428573
 1755,1000,3,2,False,False,90,flat,Gràcia,11.11111111111111
 1756,1200,3,2,True,False,98,flat,Eixample,12.244897959183673
 1757,1200,3,2,True,False,98,flat,Eixample,12.244897959183673
@@ -1783,7 +1715,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1783,1100,4,2,True,False,100,flat,Eixample,11.0
 1784,800,3,2,True,False,62,flat,Sant Martí,12.903225806451612
 1785,2000,2,2,True,False,73,apartment,Eixample,27.3972602739726
-1786,930,1,1,True,True,65,,Eixample,14.307692307692308
 1787,1350,3,2,True,False,76,flat,Eixample,17.763157894736842
 1788,1370,2,2,True,False,90,flat,Eixample,15.22222222222222
 1789,825,3,1,True,True,46,flat,Eixample,17.934782608695652
@@ -1815,7 +1746,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1815,2581,6,3,True,False,207,flat,Sarria-Sant Gervasi,12.468599033816425
 1816,850,2,1,True,False,52,flat,Sarria-Sant Gervasi,16.346153846153847
 1817,750,1,1,True,False,40,flat,Sarria-Sant Gervasi,18.75
-1818,650,0,1,True,False,38,,Eixample,17.105263157894736
 1819,750,2,1,False,False,60,flat,Gràcia,12.5
 1820,985,1,1,True,False,49,flat,Sarria-Sant Gervasi,20.10204081632653
 1821,2000,3,2,True,False,100,flat,Sarria-Sant Gervasi,20.0
@@ -1857,7 +1787,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1857,550,1,1,True,True,32,flat,Nou Barris,17.1875
 1858,1170,2,2,True,False,85,flat,Nou Barris,13.764705882352942
 1859,1100,3,2,True,False,81,flat,Les Corts,13.580246913580249
-1860,930,2,1,True,False,100,,Sants-Montjuïc,9.3
 1861,1450,2,2,True,True,77,flat,Eixample,18.83116883116883
 1862,915,4,2,True,True,85,flat,Horta- Guinardo,10.764705882352942
 1863,975,2,1,False,False,70,flat,Ciutat Vella,13.928571428571429
@@ -1865,7 +1794,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1865,2200,2,1,True,False,65,flat,Sarria-Sant Gervasi,33.84615384615385
 1866,750,2,1,False,True,60,attic,Sant Andreu,12.5
 1867,1100,3,1,True,False,80,flat,Eixample,13.75
-1868,2400,3,3,True,False,140,,Sarria-Sant Gervasi,17.142857142857142
 1869,835,2,1,True,False,63,flat,Sant Martí,13.253968253968257
 1870,1000,2,1,True,False,74,flat,Eixample,13.513513513513514
 1871,1250,3,2,True,False,82,flat,Sarria-Sant Gervasi,15.24390243902439
@@ -1964,7 +1892,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 1964,1040,3,1,True,True,68,flat,Sants-Montjuïc,15.294117647058824
 1965,820,3,1,False,True,53,flat,Sants-Montjuïc,15.471698113207546
 1966,614,3,1,False,False,61,flat,Nou Barris,10.065573770491802
-1967,2800,3,3,True,False,170,,Sarria-Sant Gervasi,16.470588235294116
 1968,1418,1,1,False,False,45,apartment,Eixample,31.511111111111116
 1969,1348,2,1,False,False,58,apartment,Eixample,23.24137931034483
 1970,1430,1,1,False,False,60,apartment,Ciutat Vella,23.83333333333333
@@ -2048,11 +1975,9 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2048,1850,2,2,True,False,90,flat,Eixample,20.55555555555556
 2049,1800,1,1,True,False,65,apartment,Eixample,27.692307692307693
 2050,1400,1,1,True,False,60,flat,Gràcia,23.33333333333333
-2051,1150,3,2,True,False,100,,Les Corts,11.5
 2052,895,2,1,True,False,87,flat,Sarria-Sant Gervasi,10.28735632183908
 2053,1300,3,2,True,True,110,flat,Eixample,11.818181818181818
 2054,650,1,1,False,True,36,flat,Ciutat Vella,18.05555555555556
-2055,700,0,1,True,False,35,,Ciutat Vella,20.0
 2056,950,3,2,True,False,75,flat,Ciutat Vella,12.666666666666666
 2057,950,4,2,True,False,85,flat,Eixample,11.176470588235292
 2058,1090,4,1,True,False,80,flat,Eixample,13.625
@@ -2103,7 +2028,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2103,840,2,1,True,False,42,flat,Sarria-Sant Gervasi,20.0
 2104,1290,2,1,False,False,60,flat,Sants-Montjuïc,21.5
 2105,1290,2,1,False,False,60,flat,Sants-Montjuïc,21.5
-2106,665,0,1,True,False,36,,Gràcia,18.47222222222222
 2107,1250,2,1,False,False,70,flat,Sarria-Sant Gervasi,17.857142857142858
 2108,4900,5,5,True,False,277,flat,Les Corts,17.689530685920577
 2109,1290,2,1,False,False,60,flat,Sants-Montjuïc,21.5
@@ -2137,7 +2061,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2137,1400,3,2,True,True,90,flat,Sarria-Sant Gervasi,15.555555555555555
 2138,2100,4,1,True,True,135,flat,Sarria-Sant Gervasi,15.555555555555555
 2139,850,3,1,True,False,66,flat,Sant Martí,12.87878787878788
-2140,750,1,1,True,False,63,,Sarria-Sant Gervasi,11.904761904761903
 2141,744,2,1,False,False,60,flat,Sants-Montjuïc,12.4
 2142,2637,5,3,True,True,216,flat,Sarria-Sant Gervasi,12.208333333333334
 2143,900,1,1,True,False,46,flat,Eixample,19.565217391304348
@@ -2151,18 +2074,13 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2151,600,0,1,True,False,41,flat,Ciutat Vella,14.634146341463415
 2152,1300,2,2,True,False,90,flat,Eixample,14.444444444444445
 2153,1650,3,2,True,False,100,flat,Sant Martí,16.5
-2154,800,1,1,False,False,60,,Gràcia,13.333333333333334
 2155,1600,2,1,False,False,91,flat,Ciutat Vella,17.582417582417584
 2156,1000,4,2,True,False,90,flat,Eixample,11.11111111111111
 2157,775,1,1,True,False,50,flat,Ciutat Vella,15.5
 2158,875,2,1,True,False,51,flat,Les Corts,17.15686274509804
 2159,1090,3,2,True,False,90,flat,Eixample,12.11111111111111
-2160,2300,3,2,True,False,85,,Sarria-Sant Gervasi,27.058823529411764
-2161,1012,2,2,True,False,80,,Sant Andreu,12.65
 2162,724,1,1,False,False,35,flat,Sant Martí,20.685714285714287
-2163,1700,2,1,True,False,85,,Sarria-Sant Gervasi,20.0
 2164,724,1,1,False,False,35,flat,Sant Martí,20.685714285714287
-2165,2500,3,2,True,False,140,,Sarria-Sant Gervasi,17.857142857142858
 2166,775,2,1,False,False,100,flat,Horta- Guinardo,7.75
 2167,995,2,1,True,True,68,flat,Sant Andreu,14.632352941176473
 2168,1975,3,2,True,True,144,flat,Eixample,13.71527777777778
@@ -2191,7 +2109,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2191,2200,2,1,True,False,65,flat,Sarria-Sant Gervasi,33.84615384615385
 2192,1000,1,1,False,False,60,flat,Horta- Guinardo,16.666666666666668
 2193,950,2,1,False,False,57,flat,Ciutat Vella,16.666666666666668
-2194,2400,3,3,True,False,140,,Sarria-Sant Gervasi,17.142857142857142
 2195,2300,5,3,True,False,160,flat,Sarria-Sant Gervasi,14.375
 2196,700,2,1,True,False,57,flat,Sants-Montjuïc,12.280701754385966
 2197,1100,2,2,True,False,96,flat,Sarria-Sant Gervasi,11.458333333333334
@@ -2214,11 +2131,9 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2214,880,3,1,False,False,60,flat,Les Corts,14.666666666666666
 2215,1100,4,2,True,True,86,flat,Eixample,12.790697674418604
 2216,750,3,1,False,False,60,flat,Horta- Guinardo,12.5
-2217,1472,3,1,False,True,150,,Sant Andreu,9.813333333333333
 2218,1220,3,1,True,False,77,flat,Sarria-Sant Gervasi,15.844155844155845
 2219,975,3,1,True,False,75,flat,Eixample,13.0
 2220,714,1,1,False,False,42,flat,Eixample,17.0
-2221,780,1,1,True,False,45,,Horta- Guinardo,17.333333333333332
 2222,850,2,1,False,False,82,flat,Ciutat Vella,10.365853658536585
 2223,1250,4,2,True,False,135,flat,Ciutat Vella,9.25925925925926
 2224,780,2,1,False,False,60,flat,Sants-Montjuïc,13.0
@@ -2259,7 +2174,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2259,1100,2,2,True,False,87,flat,Eixample,12.64367816091954
 2260,1500,4,2,True,False,115,flat,Les Corts,13.043478260869565
 2261,800,1,1,False,False,44,flat,Sarria-Sant Gervasi,18.181818181818183
-2262,1400,1,1,True,False,91,,Ciutat Vella,15.384615384615383
 2263,1600,3,2,True,False,176,flat,Ciutat Vella,9.090909090909092
 2264,2550,5,3,True,False,250,flat,Eixample,10.2
 2265,1600,2,1,True,True,70,flat,Eixample,22.857142857142858
@@ -2282,7 +2196,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2282,1300,3,2,True,False,95,flat,Eixample,13.68421052631579
 2283,4500,4,3,False,False,215,flat,Eixample,20.930232558139537
 2284,1425,3,2,False,False,86,flat,Eixample,16.569767441860463
-2285,1875,2,2,True,True,80,,Sant Martí,23.4375
 2286,6900,5,5,True,True,240,flat,Eixample,28.75
 2287,1100,3,1,True,True,70,flat,Sarria-Sant Gervasi,15.714285714285714
 2288,1500,2,2,True,False,80,flat,Sarria-Sant Gervasi,18.75
@@ -2292,7 +2205,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2292,850,2,1,False,False,60,flat,Eixample,14.166666666666666
 2293,1700,2,2,True,False,117,flat,Eixample,14.52991452991453
 2294,1200,3,2,True,False,85,flat,Gràcia,14.117647058823527
-2295,1292,2,2,True,False,105,,Ciutat Vella,12.304761904761904
 2296,1080,2,1,True,False,74,flat,Eixample,14.594594594594597
 2297,1400,1,1,True,False,80,flat,Eixample,17.5
 2298,1350,2,1,True,False,82,flat,Gràcia,16.463414634146343
@@ -2311,21 +2223,17 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2311,950,3,1,True,False,72,flat,Eixample,13.194444444444445
 2312,2000,3,2,True,False,105,flat,Eixample,19.047619047619047
 2313,1150,3,1,True,False,79,flat,Eixample,14.556962025316457
-2314,950,1,1,False,False,37,,Ciutat Vella,25.67567567567568
 2315,1050,2,1,True,False,79,flat,Les Corts,13.291139240506327
 2316,2600,5,5,True,False,272,attic,Les Corts,9.558823529411764
 2317,1650,3,2,True,False,140,flat,Eixample,11.785714285714286
 2318,1200,3,2,True,False,87,flat,Eixample,13.79310344827586
-2319,2900,3,3,True,True,132,,Eixample,21.96969696969697
 2320,1761,4,2,True,False,131,flat,Ciutat Vella,13.442748091603054
 2321,990,2,2,True,False,73,flat,Gràcia,13.561643835616438
 2322,1600,4,3,True,False,131,flat,Eixample,12.213740458015268
 2323,2200,4,2,True,False,185,flat,Eixample,11.891891891891891
-2324,1350,1,1,False,False,40,,Ciutat Vella,33.75
 2325,1700,3,2,True,False,133,flat,Eixample,12.781954887218046
 2326,1020,2,1,True,False,60,flat,Eixample,17.0
 2327,3100,5,3,True,True,183,flat,Sarria-Sant Gervasi,16.939890710382514
-2328,1500,1,1,False,False,90,,Gràcia,16.666666666666668
 2329,1450,2,2,True,True,89,flat,Les Corts,16.292134831460675
 2330,1000,1,1,True,False,45,flat,Ciutat Vella,22.22222222222222
 2331,1000,1,1,True,False,45,flat,Ciutat Vella,22.22222222222222
@@ -2365,7 +2273,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2365,990,2,1,True,False,42,flat,Eixample,23.571428571428573
 2366,715,1,1,True,False,40,flat,Ciutat Vella,17.875
 2367,750,1,1,False,False,47,flat,Ciutat Vella,15.95744680851064
-2368,650,1,1,False,False,38,,Eixample,17.105263157894736
 2369,790,3,1,True,False,70,flat,Nou Barris,11.285714285714286
 2370,1060,2,1,True,False,50,flat,Eixample,21.2
 2371,1225,3,2,True,False,100,flat,Eixample,12.25
@@ -2443,10 +2350,7 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2444,950,3,1,False,False,78,flat,Ciutat Vella,12.17948717948718
 2445,1300,3,2,False,True,120,flat,Gràcia,10.833333333333334
 2446,800,2,1,True,False,59,apartment,Sarria-Sant Gervasi,13.559322033898304
-2447,1150,1,1,True,False,55,,Sarria-Sant Gervasi,20.90909090909091
 2448,700,2,1,False,False,55,flat,Eixample,12.727272727272728
-2449,800,1,1,True,False,43,,Sarria-Sant Gervasi,18.6046511627907
-2450,1100,1,1,False,False,70,,Sarria-Sant Gervasi,15.714285714285714
 2451,1100,2,1,True,True,75,flat,Eixample,14.666666666666666
 2452,2500,4,2,True,True,172,flat,Sarria-Sant Gervasi,14.534883720930232
 2453,1300,3,2,False,False,94,flat,Sarria-Sant Gervasi,13.829787234042554
@@ -2490,13 +2394,10 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2491,975,2,1,True,True,75,flat,Eixample,13.0
 2492,1000,3,1,False,False,72,flat,Nou Barris,13.88888888888889
 2493,850,3,2,False,False,90,attic,Horta- Guinardo,9.444444444444445
-2494,2300,3,2,True,False,140,,Sarria-Sant Gervasi,16.428571428571427
 2495,800,2,1,False,False,40,flat,Sants-Montjuïc,20.0
 2496,750,1,1,False,False,63,flat,Ciutat Vella,11.904761904761903
-2497,2400,3,3,True,False,140,,Sarria-Sant Gervasi,17.142857142857142
 2498,1400,3,2,True,True,132,flat,Eixample,10.606060606060606
 2499,1950,3,2,False,False,135,flat,Les Corts,14.444444444444445
-2500,2500,3,3,True,False,140,,Sarria-Sant Gervasi,17.857142857142858
 2501,1750,4,2,True,False,137,flat,Eixample,12.773722627737229
 2502,1050,2,1,True,False,48,flat,Eixample,21.875
 2503,1250,3,1,False,False,62,flat,Ciutat Vella,20.161290322580644
@@ -2506,7 +2407,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2507,795,1,1,False,False,42,flat,Ciutat Vella,18.928571428571427
 2508,1195,2,1,True,False,70,flat,Eixample,17.071428571428573
 2509,745,1,1,False,False,50,flat,Sants-Montjuïc,14.9
-2510,895,0,1,False,False,45,,Ciutat Vella,19.88888888888889
 2511,1600,4,2,True,False,155,flat,Sarria-Sant Gervasi,10.32258064516129
 2512,1100,2,1,False,True,72,flat,Horta- Guinardo,15.27777777777778
 2513,1100,4,2,False,False,85,flat,Gràcia,12.941176470588236
@@ -2515,7 +2415,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2516,1450,4,2,True,False,130,flat,Sarria-Sant Gervasi,11.153846153846152
 2517,500,1,1,False,True,16,study,Ciutat Vella,31.25
 2518,1100,4,2,False,False,100,flat,Eixample,11.0
-2519,625,0,1,False,False,45,,Ciutat Vella,13.88888888888889
 2520,2100,2,2,True,True,103,flat,Eixample,20.388349514563107
 2521,1040,2,1,True,True,40,attic,Eixample,26.0
 2522,1080,3,1,True,False,86,flat,Eixample,12.55813953488372
@@ -2667,7 +2566,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2668,925,2,1,True,True,86,flat,Horta- Guinardo,10.755813953488373
 2669,2095,3,2,True,True,138,flat,Sarria-Sant Gervasi,15.181159420289855
 2670,1150,1,1,True,False,42,apartment,Eixample,27.38095238095238
-2671,2500,2,3,False,True,130,,Sant Martí,19.23076923076923
 2672,950,3,1,True,False,80,flat,Eixample,11.875
 2673,1250,4,2,True,False,120,flat,Les Corts,10.416666666666666
 2674,1000,3,1,True,False,81,flat,Eixample,12.34567901234568
@@ -2762,7 +2660,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2764,3460,4,2,True,False,129,flat,Sarria-Sant Gervasi,26.82170542635659
 2765,1890,2,2,True,True,68,flat,Sarria-Sant Gervasi,27.794117647058822
 2766,1000,2,1,True,False,68,flat,Sarria-Sant Gervasi,14.705882352941176
-2767,650,1,1,True,False,35,,Ciutat Vella,18.571428571428573
 2768,950,3,1,True,False,75,flat,Gràcia,12.666666666666666
 2769,1100,2,2,True,False,83,flat,Eixample,13.25301204819277
 2770,1100,3,1,True,False,75,flat,Eixample,14.666666666666666
@@ -2779,7 +2676,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2781,1100,4,2,True,False,100,flat,Sants-Montjuïc,11.0
 2782,1150,2,1,True,False,72,flat,Eixample,15.97222222222222
 2783,950,4,2,True,False,82,flat,Eixample,11.585365853658535
-2784,745,1,1,False,False,50,,Ciutat Vella,14.9
 2785,825,2,1,True,True,70,flat,Ciutat Vella,11.785714285714286
 2786,850,3,1,True,True,67,flat,Sant Martí,12.686567164179104
 2787,3600,3,4,True,True,220,flat,Eixample,16.363636363636363
@@ -2967,7 +2863,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2969,2500,3,2,True,False,145,flat,Sarria-Sant Gervasi,17.24137931034483
 2970,780,1,1,True,True,44,flat,Horta- Guinardo,17.727272727272727
 2971,850,2,2,False,False,85,apartment,Ciutat Vella,10.0
-2972,695,0,2,True,False,78,,Horta- Guinardo,8.91025641025641
 2973,850,2,1,False,False,52,flat,Sants-Montjuïc,16.346153846153847
 2974,700,1,1,True,False,45,flat,Sarria-Sant Gervasi,15.555555555555555
 2975,800,1,1,True,False,42,attic,Les Corts,19.047619047619047
@@ -2989,7 +2884,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 2991,2200,3,2,False,False,80,flat,Sant Martí,27.5
 2992,900,1,1,False,False,48,flat,Ciutat Vella,18.75
 2993,950,1,1,False,False,55,flat,Ciutat Vella,17.272727272727273
-2994,800,1,2,True,False,80,,Sants-Montjuïc,10.0
 2995,850,2,2,False,False,60,flat,Ciutat Vella,14.166666666666666
 2996,1100,3,2,False,False,90,flat,Gràcia,12.22222222222222
 2997,998,3,1,False,False,65,flat,Les Corts,15.353846153846154
@@ -3068,13 +2962,10 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3070,900,2,1,False,False,50,flat,Sant Martí,18.0
 3071,1000,2,1,True,False,80,flat,Sant Martí,12.5
 3072,4500,4,3,True,False,148,flat,Sarria-Sant Gervasi,30.405405405405407
-3073,2700,4,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
 3074,850,1,2,True,False,83,flat,Gràcia,10.240963855421686
 3075,950,3,2,True,False,100,flat,Sant Martí,9.5
 3076,800,2,1,True,False,78,flat,Horta- Guinardo,10.256410256410255
-3077,2700,4,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
 3078,1000,3,1,True,False,68,flat,Eixample,14.705882352941176
-3079,2800,1,1,True,False,75,,Gràcia,37.333333333333336
 3080,1100,2,1,False,True,85,flat,Gràcia,12.941176470588236
 3081,1090,2,1,True,True,87,flat,Gràcia,12.528735632183908
 3082,1100,3,2,False,True,84,flat,Gràcia,13.095238095238097
@@ -3147,9 +3038,7 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3149,1200,2,1,False,False,75,flat,Ciutat Vella,16.0
 3150,1200,2,1,False,False,72,flat,Sants-Montjuïc,16.666666666666668
 3151,2200,2,1,True,False,65,flat,Sarria-Sant Gervasi,33.84615384615385
-3152,1700,2,1,True,False,85,,Sarria-Sant Gervasi,20.0
 3153,4500,3,2,True,True,80,flat,Eixample,56.25
-3154,2700,4,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
 3155,4500,3,2,True,False,105,flat,Eixample,42.85714285714285
 3156,915,3,1,False,False,74,flat,Les Corts,12.364864864864863
 3157,720,2,1,False,False,45,apartment,Eixample,16.0
@@ -3170,7 +3059,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3172,650,1,1,True,False,20,flat,Eixample,32.5
 3173,810,2,1,True,True,64,flat,Les Corts,12.65625
 3174,900,1,1,True,True,55,flat,Eixample,16.363636363636363
-3175,595,0,1,True,False,30,,Gràcia,19.83333333333333
 3176,1200,3,2,True,True,120,flat,Les Corts,10.0
 3177,1300,3,2,True,False,91,flat,Gràcia,14.285714285714286
 3178,795,1,1,False,False,37,flat,Ciutat Vella,21.486486486486488
@@ -3192,7 +3080,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3194,2300,2,2,True,False,105,apartment,Eixample,21.904761904761905
 3195,1500,2,2,True,False,71,flat,Eixample,21.12676056338028
 3196,1170,1,1,True,False,60,flat,Les Corts,19.5
-3197,1150,1,1,False,False,47,,Sarria-Sant Gervasi,24.46808510638298
 3198,2600,10,1,True,False,220,flat,Les Corts,11.818181818181818
 3199,850,3,1,True,False,70,flat,Sant Martí,12.142857142857142
 3200,3300,2,2,True,False,185,apartment,Eixample,17.83783783783784
@@ -3220,7 +3107,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3222,1100,1,1,False,False,50,flat,Eixample,22.0
 3223,1100,2,1,False,False,56,flat,Ciutat Vella,19.642857142857142
 3224,800,0,1,False,False,43,attic,Ciutat Vella,18.6046511627907
-3225,4500,4,3,True,True,256,,Sarria-Sant Gervasi,17.578125
 3226,900,1,2,True,False,100,flat,Eixample,9.0
 3227,1100,1,1,False,False,40,flat,Ciutat Vella,27.5
 3228,1100,3,1,False,False,69,flat,Horta- Guinardo,15.942028985507246
@@ -3291,9 +3177,7 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3293,975,2,1,True,False,64,flat,Gràcia,15.234375
 3294,4000,3,2,False,False,100,flat,Sant Martí,40.0
 3295,925,1,1,True,False,51,flat,Ciutat Vella,18.137254901960784
-3296,850,1,1,True,False,48,,Ciutat Vella,17.708333333333332
 3297,940,3,1,True,False,77,flat,Sants-Montjuïc,12.207792207792208
-3298,1300,1,1,True,False,55,,Ciutat Vella,23.63636363636364
 3299,1150,1,1,False,False,60,flat,Ciutat Vella,19.166666666666668
 3300,900,3,1,True,True,65,flat,Sant Martí,13.846153846153848
 3301,860,2,1,True,False,70,flat,Sant Martí,12.285714285714286
@@ -3313,9 +3197,7 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3315,1100,2,1,True,False,78,flat,Ciutat Vella,14.102564102564102
 3316,2000,3,2,True,False,127,flat,Eixample,15.748031496062993
 3317,675,1,1,True,True,67,flat,Horta- Guinardo,10.07462686567164
-3318,5500,3,2,True,False,100,,Gràcia,55.0
 3319,4500,3,2,True,True,85,flat,Eixample,52.94117647058823
-3320,2500,3,3,True,False,140,,Sarria-Sant Gervasi,17.857142857142858
 3321,4500,3,2,True,False,105,flat,Eixample,42.85714285714285
 3322,650,1,1,True,True,55,attic,Eixample,11.818181818181818
 3323,800,2,1,False,False,60,apartment,Sants-Montjuïc,13.333333333333334
@@ -3344,10 +3226,8 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3346,990,3,1,True,True,71,flat,Sarria-Sant Gervasi,13.943661971830986
 3347,1200,1,2,False,True,59,flat,Ciutat Vella,20.338983050847457
 3348,1150,3,1,True,False,90,flat,Eixample,12.77777777777778
-3349,850,1,1,True,False,40,,Ciutat Vella,21.25
 3350,2200,2,1,True,False,65,flat,Sarria-Sant Gervasi,33.84615384615385
 3351,1700,3,2,True,True,135,flat,Eixample,12.592592592592592
-3352,2400,3,3,True,False,120,,Sarria-Sant Gervasi,20.0
 3353,850,3,1,True,True,76,flat,Sant Martí,11.18421052631579
 3354,1000,3,2,True,False,94,flat,Eixample,10.638297872340424
 3355,1600,3,3,True,False,79,flat,Ciutat Vella,20.253164556962027
@@ -3396,14 +3276,12 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3398,1100,1,1,False,False,52,flat,Sarria-Sant Gervasi,21.153846153846157
 3399,1125,2,1,True,False,85,flat,Sarria-Sant Gervasi,13.235294117647058
 3400,1180,2,1,True,False,85,flat,Sarria-Sant Gervasi,13.882352941176473
-3401,2400,5,4,True,False,240,,Sarria-Sant Gervasi,10.0
 3402,900,2,1,True,True,54,attic,Sant Andreu,16.666666666666668
 3403,1180,3,2,True,False,86,flat,Eixample,13.72093023255814
 3404,950,3,1,True,True,70,flat,Sant Andreu,13.571428571428571
 3405,950,2,1,True,False,80,flat,Sarria-Sant Gervasi,11.875
 3406,850,2,1,False,False,40,flat,Gràcia,21.25
 3407,972,3,2,True,True,60,flat,Sarria-Sant Gervasi,16.2
-3408,1150,2,2,False,True,115,,Gràcia,10.0
 3409,900,2,1,True,False,53,flat,Sants-Montjuïc,16.9811320754717
 3410,925,3,1,True,False,75,flat,Eixample,12.333333333333334
 3411,890,3,1,True,False,79,flat,Sants-Montjuïc,11.265822784810126
@@ -3439,7 +3317,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3441,900,1,1,True,False,35,flat,Ciutat Vella,25.714285714285715
 3442,900,1,1,True,False,37,flat,Ciutat Vella,24.324324324324323
 3443,1100,1,1,False,False,98,study,Horta- Guinardo,11.224489795918368
-3444,1500,2,2,True,True,85,,Eixample,17.647058823529413
 3445,2150,2,2,True,True,115,attic,Eixample,18.695652173913043
 3446,1100,3,2,False,False,78,flat,Horta- Guinardo,14.102564102564102
 3447,1000,2,1,True,False,76,flat,Eixample,13.157894736842104
@@ -3447,7 +3324,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3449,1000,1,2,True,False,90,flat,Ciutat Vella,11.11111111111111
 3450,925,1,1,True,False,45,flat,Eixample,20.55555555555556
 3451,925,1,1,True,False,45,flat,Eixample,20.55555555555556
-3452,720,0,1,True,False,32,,Sarria-Sant Gervasi,22.5
 3453,1075,2,1,True,True,60,attic,Gràcia,17.916666666666668
 3454,890,3,2,True,False,80,flat,Eixample,11.125
 3455,980,2,1,True,True,86,flat,Sant Martí,11.395348837209305
@@ -3466,7 +3342,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3468,800,2,1,True,True,62,flat,Sants-Montjuïc,12.903225806451612
 3469,1032,3,2,True,False,76,flat,Sarria-Sant Gervasi,13.578947368421051
 3470,1150,1,1,True,True,60,apartment,Ciutat Vella,19.166666666666668
-3471,695,0,1,False,False,40,,Horta- Guinardo,17.375
 3472,6000,1,2,True,False,133,apartment,Sant Martí,45.11278195488722
 3473,1540,1,1,False,False,40,apartment,Ciutat Vella,38.5
 3474,2545,2,2,False,False,120,apartment,Eixample,21.20833333333333
@@ -3499,7 +3374,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3501,778,2,1,True,False,45,flat,Horta- Guinardo,17.288888888888888
 3502,1045,3,2,True,False,55,flat,Eixample,19.0
 3503,1205,2,1,True,False,59,flat,Eixample,20.42372881355932
-3504,750,1,1,False,False,50,,Sarria-Sant Gervasi,15.0
 3505,900,4,2,False,False,89,flat,Horta- Guinardo,10.112359550561798
 3506,900,3,1,True,True,93,flat,Les Corts,9.67741935483871
 3507,875,4,2,True,False,70,flat,Eixample,12.5
@@ -3600,7 +3474,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3602,800,1,1,False,False,50,flat,Sant Martí,16.0
 3603,975,1,1,True,False,55,flat,Eixample,17.727272727272727
 3604,2500,0,2,True,True,170,study,Ciutat Vella,14.705882352941176
-3605,1100,1,1,True,False,45,,Ciutat Vella,24.444444444444443
 3606,2550,4,2,True,True,142,flat,Sarria-Sant Gervasi,17.95774647887324
 3607,1500,4,2,True,False,110,flat,Eixample,13.636363636363637
 3608,1279,4,2,False,False,96,flat,Eixample,13.322916666666666
@@ -3644,7 +3517,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3646,790,2,1,False,False,67,flat,Eixample,11.791044776119405
 3647,1279,3,2,True,False,105,flat,Eixample,12.18095238095238
 3648,929,2,1,True,True,60,flat,Horta- Guinardo,15.483333333333333
-3649,745,0,1,True,False,38,,Sarria-Sant Gervasi,19.605263157894736
 3650,842,3,1,True,False,68,apartment,Horta- Guinardo,12.382352941176473
 3651,1700,3,2,True,False,84,flat,Sarria-Sant Gervasi,20.23809523809524
 3652,890,1,1,True,False,55,flat,Sarria-Sant Gervasi,16.181818181818183
@@ -3682,7 +3554,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3684,970,4,1,True,True,70,flat,Les Corts,13.857142857142858
 3685,1100,3,2,True,False,95,flat,Ciutat Vella,11.578947368421051
 3686,990,2,2,False,False,40,flat,Ciutat Vella,24.75
-3687,625,1,1,True,False,41,,Sants-Montjuïc,15.24390243902439
 3688,974,3,1,False,False,68,flat,Eixample,14.323529411764708
 3689,1050,2,1,False,False,83,flat,Eixample,12.650602409638552
 3690,650,2,1,False,True,37,flat,Ciutat Vella,17.56756756756757
@@ -3744,14 +3615,12 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3746,832,2,1,True,False,55,flat,Eixample,15.127272727272729
 3747,4750,5,4,True,True,280,flat,Sarria-Sant Gervasi,16.964285714285715
 3748,4750,5,4,True,True,280,flat,Sarria-Sant Gervasi,16.964285714285715
-3749,2650,4,2,True,False,185,,Eixample,14.324324324324325
 3750,850,3,1,True,False,60,flat,Sant Andreu,14.166666666666666
 3751,2445,5,1,False,False,160,flat,Eixample,15.28125
 3752,820,2,1,False,False,66,flat,Eixample,12.424242424242424
 3753,725,1,2,False,False,80,flat,Ciutat Vella,9.0625
 3754,800,2,1,False,False,56,flat,Ciutat Vella,14.285714285714286
 3755,950,3,1,True,True,103,attic,Horta- Guinardo,9.223300970873789
-3756,700,1,1,True,True,38,,Eixample,18.42105263157895
 3757,1300,2,1,True,True,70,flat,Sant Martí,18.571428571428573
 3758,850,4,1,False,False,60,flat,Sants-Montjuïc,14.166666666666666
 3759,1180,3,2,True,True,85,flat,Eixample,13.882352941176473
@@ -3761,7 +3630,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3763,1050,2,1,False,False,65,flat,Ciutat Vella,16.153846153846153
 3764,800,2,1,True,False,48,flat,Sants-Montjuïc,16.666666666666668
 3765,850,1,1,True,False,35,apartment,Eixample,24.285714285714285
-3766,1950,4,2,True,False,180,,Les Corts,10.833333333333334
 3767,1150,4,2,True,False,88,flat,Sarria-Sant Gervasi,13.068181818181818
 3768,1350,4,2,True,False,113,flat,Sarria-Sant Gervasi,11.946902654867255
 3769,925,3,1,True,False,65,flat,Sarria-Sant Gervasi,14.23076923076923
@@ -3804,7 +3672,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3806,1350,2,1,True,False,62,flat,Ciutat Vella,21.774193548387096
 3807,1250,2,1,True,False,56,flat,Ciutat Vella,22.321428571428573
 3808,1200,2,2,True,False,75,flat,Sant Martí,16.0
-3809,717,0,1,False,False,42,,Ciutat Vella,17.071428571428573
 3810,1090,2,2,True,False,95,flat,Eixample,11.473684210526317
 3811,1090,2,2,True,False,87,flat,Eixample,12.528735632183908
 3812,900,3,1,True,False,85,flat,Horta- Guinardo,10.588235294117649
@@ -3841,7 +3708,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3843,1350,2,2,True,False,80,flat,Sarria-Sant Gervasi,16.875
 3844,900,2,2,True,False,53,flat,Sants-Montjuïc,16.9811320754717
 3845,832,1,1,True,False,48,flat,Sant Martí,17.333333333333332
-3846,800,0,1,False,False,48,,Gràcia,16.666666666666668
 3847,900,3,2,True,False,63,flat,Gràcia,14.285714285714286
 3848,1100,3,2,False,False,83,flat,Sarria-Sant Gervasi,13.25301204819277
 3849,850,1,1,False,False,45,flat,Ciutat Vella,18.88888888888889
@@ -3884,7 +3750,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3886,850,2,1,True,True,40,attic,Horta- Guinardo,21.25
 3887,2650,2,2,True,True,120,flat,Eixample,22.08333333333333
 3888,1136,2,1,True,False,58,flat,Eixample,19.58620689655172
-3889,650,1,1,False,False,40,,Gràcia,16.25
 3890,850,3,1,False,False,66,flat,Nou Barris,12.87878787878788
 3891,1300,2,1,True,True,54,attic,Ciutat Vella,24.074074074074076
 3892,1200,3,2,True,False,73,flat,Sant Martí,16.438356164383563
@@ -3907,17 +3772,14 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3909,740,1,1,True,False,41,flat,Eixample,18.04878048780488
 3910,1200,3,1,False,False,84,flat,Gràcia,14.285714285714286
 3911,1200,2,1,True,False,70,flat,Sant Martí,17.142857142857142
-3912,500,0,1,True,False,25,,Horta- Guinardo,20.0
 3913,1000,3,1,True,False,65,flat,Les Corts,15.384615384615383
 3914,1200,2,2,True,False,86,flat,Sarria-Sant Gervasi,13.953488372093023
 3915,1225,3,2,True,False,82,flat,Sants-Montjuïc,14.939024390243905
-3916,800,0,1,True,False,31,,Sarria-Sant Gervasi,25.806451612903224
 3917,1190,4,2,True,True,83,flat,Sants-Montjuïc,14.337349397590362
 3918,575,2,1,False,False,47,flat,Sant Martí,12.23404255319149
 3919,1000,3,1,False,False,65,flat,Gràcia,15.384615384615383
 3920,1400,2,1,True,False,80,flat,Sarria-Sant Gervasi,17.5
 3921,750,3,1,True,True,55,flat,Sants-Montjuïc,13.636363636363637
-3922,4000,3,2,True,False,120,,Sarria-Sant Gervasi,33.333333333333336
 3923,1400,3,1,True,False,103,flat,Eixample,13.592233009708735
 3924,900,3,1,True,False,70,flat,Sants-Montjuïc,12.857142857142858
 3925,1080,3,1,False,False,83,flat,Sarria-Sant Gervasi,13.012048192771084
@@ -3997,7 +3859,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 3999,750,1,1,True,False,42,flat,Ciutat Vella,17.857142857142858
 4000,1100,2,2,True,False,55,flat,Sants-Montjuïc,20.0
 4001,650,1,1,False,False,35,flat,Les Corts,18.571428571428573
-4002,1000,2,1,False,False,70,,Ciutat Vella,14.285714285714286
 4003,1200,3,2,True,False,85,flat,Gràcia,14.117647058823527
 4004,1248,3,2,True,False,90,flat,Eixample,13.866666666666667
 4005,1161,2,2,False,False,65,flat,Eixample,17.861538461538462
@@ -4048,7 +3909,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4050,775,2,1,True,False,65,flat,Les Corts,11.923076923076923
 4051,1150,3,2,True,True,90,flat,Eixample,12.77777777777778
 4052,666,0,1,False,False,40,study,Sant Andreu,16.65
-4053,625,0,1,True,True,42,,Les Corts,14.88095238095238
 4054,875,3,1,True,False,62,flat,Les Corts,14.112903225806452
 4055,5000,2,4,False,False,213,flat,Eixample,23.474178403755868
 4056,1200,4,2,True,True,83,flat,Sants-Montjuïc,14.457831325301203
@@ -4095,7 +3955,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4097,1180,4,2,True,False,95,flat,Sarria-Sant Gervasi,12.421052631578949
 4098,1100,3,2,True,False,81,flat,Sarria-Sant Gervasi,13.580246913580249
 4099,800,2,1,True,False,58,attic,Horta- Guinardo,13.79310344827586
-4100,1900,0,1,False,False,170,,Eixample,11.176470588235292
 4101,1200,4,1,True,False,85,flat,Gràcia,14.117647058823527
 4102,1050,3,1,True,False,103,flat,Eixample,10.194174757281552
 4103,1150,3,1,True,False,80,flat,Eixample,14.375
@@ -4126,7 +3985,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4128,4500,4,3,True,False,150,flat,Sarria-Sant Gervasi,30.0
 4129,1500,4,2,False,False,91,flat,Eixample,16.483516483516482
 4130,950,2,1,False,False,77,flat,Eixample,12.337662337662335
-4131,800,1,1,True,False,50,,Eixample,16.0
 4132,1100,3,2,True,False,80,flat,Eixample,13.75
 4133,2000,4,2,True,True,154,flat,Eixample,12.987012987012989
 4134,790,0,1,True,False,74,flat,Sants-Montjuïc,10.675675675675675
@@ -4147,7 +4005,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4149,749,3,1,True,False,55,flat,Sant Martí,13.61818181818182
 4150,750,1,1,True,False,40,flat,Sarria-Sant Gervasi,18.75
 4151,860,2,1,True,False,43,attic,Eixample,20.0
-4152,4600,3,2,True,True,80,,Eixample,57.5
 4153,2400,3,1,True,False,85,flat,Sarria-Sant Gervasi,28.235294117647054
 4154,1256,4,2,True,True,94,flat,Gràcia,13.361702127659576
 4155,825,4,1,True,False,72,apartment,Sants-Montjuïc,11.458333333333334
@@ -4170,7 +4027,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4172,1240,3,2,True,False,92,flat,Eixample,13.478260869565217
 4173,3200,4,3,True,True,250,flat,Les Corts,12.8
 4174,1650,2,1,False,False,80,flat,Sarria-Sant Gervasi,20.625
-4175,650,0,1,True,False,27,,Horta- Guinardo,24.074074074074076
 4176,1100,3,2,True,False,90,flat,Sant Andreu,12.22222222222222
 4177,850,3,1,True,True,54,flat,Nou Barris,15.74074074074074
 4178,620,3,1,False,True,56,attic,Horta- Guinardo,11.071428571428571
@@ -4202,7 +4058,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4204,995,1,1,False,False,40,flat,Ciutat Vella,24.875
 4205,1145,2,1,True,False,65,flat,Eixample,17.615384615384617
 4206,1150,2,2,False,False,78,flat,Sants-Montjuïc,14.743589743589745
-4207,850,1,1,True,False,40,,Ciutat Vella,21.25
 4208,1000,2,1,True,False,64,flat,Eixample,15.625
 4209,895,4,1,False,False,76,flat,Sant Martí,11.776315789473683
 4210,800,2,1,True,True,60,flat,Sants-Montjuïc,13.333333333333334
@@ -4245,10 +4100,7 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4248,1470,3,2,True,False,102,flat,Gràcia,14.411764705882351
 4249,750,3,1,False,False,44,flat,Gràcia,17.045454545454547
 4250,875,2,1,True,False,51,flat,Horta- Guinardo,17.15686274509804
-4251,942,0,1,True,False,60,,Sant Martí,15.7
 4252,935,2,2,True,False,67,flat,Sant Andreu,13.955223880597014
-4253,1300,0,1,True,False,78,,Eixample,16.666666666666668
-4254,630,1,1,False,False,26,,Sant Martí,24.23076923076923
 4255,725,2,1,False,False,70,flat,Sants-Montjuïc,10.357142857142858
 4256,620,1,1,True,False,41,flat,Eixample,15.121951219512194
 4257,825,3,1,False,False,68,flat,Sant Andreu,12.132352941176473
@@ -4336,14 +4188,12 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4339,1200,6,3,True,False,178,apartment,Eixample,6.741573033707865
 4340,1290,3,1,True,False,92,flat,Sarria-Sant Gervasi,14.021739130434783
 4341,850,1,1,True,True,55,attic,Sant Andreu,15.454545454545457
-4342,770,1,1,False,False,60,,Sants-Montjuïc,12.833333333333334
 4343,850,4,2,True,True,95,flat,Sant Andreu,8.947368421052632
 4344,1177,4,2,True,True,70,flat,Eixample,16.814285714285713
 4345,1150,0,1,False,False,91,flat,Sarria-Sant Gervasi,12.637362637362637
 4346,953,3,1,True,False,57,flat,Gràcia,16.719298245614034
 4347,1500,4,3,True,False,135,flat,Sarria-Sant Gervasi,11.11111111111111
 4348,1250,2,2,False,False,105,flat,Eixample,11.904761904761903
-4349,1000,1,1,False,True,65,,Sant Martí,15.384615384615383
 4350,800,1,1,False,False,40,apartment,Ciutat Vella,20.0
 4351,900,2,2,False,False,75,flat,Eixample,12.0
 4352,1100,2,1,True,True,62,apartment,Eixample,17.741935483870968
@@ -4353,7 +4203,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4356,950,3,1,True,False,70,flat,Eixample,13.571428571428571
 4357,1025,2,1,True,False,50,flat,Eixample,20.5
 4358,1100,2,1,True,False,61,flat,Eixample,18.0327868852459
-4359,500,0,1,False,False,20,,Sarria-Sant Gervasi,25.0
 4360,1250,1,1,True,False,45,apartment,Sarria-Sant Gervasi,27.77777777777778
 4361,1800,3,2,True,True,122,attic,Sarria-Sant Gervasi,14.754098360655735
 4362,1300,2,2,True,False,65,flat,Gràcia,20.0
@@ -4450,7 +4299,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4453,865,2,1,True,True,74,attic,Sarria-Sant Gervasi,11.68918918918919
 4454,1100,3,2,True,True,84,apartment,Les Corts,13.095238095238097
 4455,850,3,1,True,False,70,flat,Sant Andreu,12.142857142857142
-4456,1000,2,1,True,False,105,,Sant Martí,9.523809523809524
 4457,640,1,1,False,False,50,flat,Horta- Guinardo,12.8
 4458,850,4,1,False,False,88,flat,Ciutat Vella,9.659090909090908
 4459,970,4,1,False,False,91,apartment,Ciutat Vella,10.65934065934066
@@ -4486,10 +4334,7 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4489,670,1,1,False,False,55,flat,Ciutat Vella,12.181818181818182
 4490,1500,3,2,True,False,115,flat,Eixample,13.043478260869565
 4491,1200,2,1,True,False,85,flat,Eixample,14.117647058823527
-4492,4000,3,2,True,False,120,,Sarria-Sant Gervasi,33.333333333333336
 4493,4500,4,3,True,False,150,flat,Sarria-Sant Gervasi,30.0
-4494,2700,4,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
-4495,2800,1,1,True,False,75,,Gràcia,37.333333333333336
 4496,1750,5,2,True,False,155,flat,Eixample,11.290322580645162
 4497,1100,3,2,True,False,72,flat,Gràcia,15.27777777777778
 4498,1600,4,2,True,True,95,flat,Sarria-Sant Gervasi,16.842105263157894
@@ -4543,7 +4388,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4546,1350,1,1,False,False,59,flat,Eixample,22.88135593220339
 4547,3500,3,2,False,False,167,flat,Sarria-Sant Gervasi,20.95808383233533
 4548,2200,2,1,True,False,65,flat,Sarria-Sant Gervasi,33.84615384615385
-4549,1700,2,1,True,False,85,,Sarria-Sant Gervasi,20.0
 4550,1550,3,2,False,False,130,flat,Sarria-Sant Gervasi,11.923076923076923
 4551,1590,3,2,False,False,95,flat,Sant Martí,16.736842105263158
 4552,800,1,1,False,False,45,flat,Ciutat Vella,17.77777777777778
@@ -4611,7 +4455,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4614,1480,4,2,True,False,100,flat,Gràcia,14.8
 4615,895,1,1,True,True,60,apartment,Les Corts,14.916666666666666
 4616,1415,4,2,True,False,135,flat,Sants-Montjuïc,10.48148148148148
-4617,750,0,1,True,False,42,,Les Corts,17.857142857142858
 4618,965,2,1,True,False,55,flat,Eixample,17.545454545454547
 4619,1390,2,1,True,False,81,attic,Eixample,17.160493827160494
 4620,1490,3,2,True,False,120,flat,Eixample,12.416666666666666
@@ -4633,7 +4476,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4636,1000,3,2,True,False,180,flat,Sarria-Sant Gervasi,5.555555555555555
 4637,850,3,2,True,True,70,flat,Sants-Montjuïc,12.142857142857142
 4638,700,2,1,True,False,60,flat,Nou Barris,11.666666666666666
-4639,750,2,2,True,False,80,,Nou Barris,9.375
 4640,850,3,1,True,False,65,flat,Sants-Montjuïc,13.076923076923077
 4641,895,2,1,True,False,75,flat,Sant Martí,11.933333333333334
 4642,1047,1,1,True,True,54,flat,Gràcia,19.38888888888889
@@ -4662,7 +4504,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4665,1900,5,3,True,True,240,attic,Horta- Guinardo,7.916666666666667
 4666,1590,3,2,False,False,156,flat,Ciutat Vella,10.192307692307692
 4667,800,3,1,False,True,70,flat,Sants-Montjuïc,11.428571428571429
-4668,590,1,1,False,False,30,,Ciutat Vella,19.666666666666668
 4669,1000,2,1,True,False,68,flat,Eixample,14.705882352941176
 4670,990,4,1,False,False,75,flat,Eixample,13.2
 4671,2095,3,2,True,False,138,flat,Sarria-Sant Gervasi,15.181159420289855
@@ -4685,7 +4526,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4688,2200,0,3,True,False,148,flat,Sarria-Sant Gervasi,14.864864864864863
 4689,880,1,1,True,True,45,flat,Sarria-Sant Gervasi,19.55555555555556
 4690,1300,1,1,True,True,50,attic,Sarria-Sant Gervasi,26.0
-4691,1100,1,1,False,True,75,,Sarria-Sant Gervasi,14.666666666666666
 4692,3500,2,2,True,True,150,attic,Sarria-Sant Gervasi,23.33333333333333
 4693,850,1,1,False,False,39,flat,Sarria-Sant Gervasi,21.7948717948718
 4694,1030,1,1,True,False,55,flat,Sarria-Sant Gervasi,18.727272727272727
@@ -4704,7 +4544,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4707,1450,2,2,True,False,80,flat,Sarria-Sant Gervasi,18.125
 4708,1650,4,2,True,True,120,flat,Sarria-Sant Gervasi,13.75
 4709,3200,3,2,True,False,149,apartment,Sarria-Sant Gervasi,21.47651006711409
-4710,5300,4,6,True,False,225,,Sarria-Sant Gervasi,23.55555555555556
 4711,1600,3,2,True,False,121,flat,Sarria-Sant Gervasi,13.223140495867767
 4712,4900,6,4,True,True,276,flat,Sarria-Sant Gervasi,17.753623188405797
 4713,3300,5,4,True,True,190,flat,Sarria-Sant Gervasi,17.36842105263158
@@ -4731,7 +4570,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4735,970,2,1,True,False,70,flat,Eixample,13.857142857142858
 4736,1050,3,2,True,False,85,flat,Eixample,12.352941176470589
 4737,850,3,1,False,False,63,flat,Sants-Montjuïc,13.492063492063492
-4738,4500,4,3,True,True,256,,Sarria-Sant Gervasi,17.578125
 4739,1200,3,1,True,True,70,attic,Gràcia,17.142857142857142
 4740,975,2,1,True,False,70,flat,Sants-Montjuïc,13.928571428571429
 4741,1250,2,1,False,False,65,attic,Gràcia,19.23076923076923
@@ -4748,9 +4586,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4752,1400,2,2,True,True,74,flat,Eixample,18.91891891891892
 4753,870,2,1,True,False,70,flat,Eixample,12.428571428571429
 4754,4500,3,2,True,False,85,flat,Eixample,52.94117647058823
-4755,5500,3,2,True,False,100,,Gràcia,55.0
-4756,2700,3,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
-4757,2400,3,3,True,False,140,,Sarria-Sant Gervasi,17.142857142857142
 4758,2450,2,2,True,False,153,apartment,Sant Martí,16.013071895424837
 4759,1180,2,1,True,False,80,flat,Sarria-Sant Gervasi,14.75
 4760,950,2,1,False,False,60,flat,Eixample,15.833333333333334
@@ -4823,7 +4658,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4827,640,1,1,False,False,36,flat,Horta- Guinardo,17.77777777777778
 4828,770,2,1,True,True,55,flat,Sant Martí,14.0
 4829,1600,4,2,True,False,137,flat,Sarria-Sant Gervasi,11.67883211678832
-4830,850,1,1,True,False,50,,Eixample,17.0
 4831,925,2,1,True,False,70,flat,Les Corts,13.214285714285714
 4832,750,2,1,False,False,81,flat,Les Corts,9.25925925925926
 4833,1000,2,1,True,True,70,flat,Sarria-Sant Gervasi,14.285714285714286
@@ -4920,7 +4754,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4924,2200,2,2,True,True,126,attic,Gràcia,17.46031746031746
 4925,950,3,1,False,False,95,flat,Horta- Guinardo,10.0
 4926,525,1,1,False,False,34,flat,Sant Martí,15.441176470588236
-4927,650,1,1,True,False,22,,Eixample,29.545454545454547
 4928,820,2,1,True,True,70,attic,Sant Martí,11.714285714285714
 4929,1300,4,2,False,False,100,flat,Les Corts,13.0
 4930,1090,3,1,False,False,71,flat,Eixample,15.352112676056338
@@ -4937,7 +4770,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4941,1350,3,2,False,False,75,flat,Eixample,18.0
 4942,590,1,1,False,False,38,flat,Ciutat Vella,15.526315789473683
 4943,894,1,2,False,False,100,flat,Sant Andreu,8.94
-4944,475,1,1,True,False,32,,Ciutat Vella,14.84375
 4945,1208,4,2,False,False,120,flat,Eixample,10.066666666666666
 4946,700,1,1,False,False,55,study,Les Corts,12.727272727272728
 4947,1075,3,2,False,False,68,flat,Ciutat Vella,15.808823529411764
@@ -4945,7 +4777,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4949,1200,3,2,True,False,85,flat,Sarria-Sant Gervasi,14.117647058823527
 4950,950,3,1,True,False,88,flat,Eixample,10.795454545454543
 4951,1100,3,2,True,False,83,flat,Eixample,13.25301204819277
-4952,1100,1,2,True,False,81,,Ciutat Vella,13.580246913580249
 4953,750,3,1,False,False,60,flat,Sants-Montjuïc,12.5
 4954,880,3,1,False,False,70,flat,Eixample,12.571428571428571
 4955,3000,2,1,True,True,75,flat,Gràcia,40.0
@@ -4975,7 +4806,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 4979,3800,4,3,True,True,300,flat,Sarria-Sant Gervasi,12.666666666666666
 4980,865,3,1,True,False,70,flat,Eixample,12.357142857142858
 4981,1225,3,2,False,False,70,flat,Gràcia,17.5
-4982,725,1,1,True,False,35,,Sant Martí,20.714285714285715
 4983,790,1,1,True,False,45,flat,Les Corts,17.555555555555557
 4984,900,1,1,False,False,34,flat,Ciutat Vella,26.47058823529412
 4985,935,3,1,True,False,74,flat,Eixample,12.635135135135137
@@ -5002,14 +4832,12 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5006,1050,1,1,True,False,50,flat,Eixample,21.0
 5007,950,4,2,True,False,75,flat,Sarria-Sant Gervasi,12.666666666666666
 5008,990,2,1,False,True,66,flat,Sants-Montjuïc,15.0
-5009,770,1,2,False,False,85,,Sants-Montjuïc,9.058823529411764
 5010,725,3,1,True,False,55,flat,Eixample,13.181818181818182
 5011,900,2,1,False,False,80,apartment,Ciutat Vella,11.25
 5012,850,2,2,False,False,60,flat,Ciutat Vella,14.166666666666666
 5013,700,2,1,False,False,100,flat,Gràcia,7.0
 5014,1100,3,1,True,False,75,flat,Eixample,14.666666666666666
 5015,1190,4,2,True,False,105,flat,Eixample,11.333333333333334
-5016,625,0,1,False,False,30,,Eixample,20.83333333333333
 5017,825,3,1,False,False,70,flat,Ciutat Vella,11.785714285714286
 5018,825,3,1,False,True,70,flat,Ciutat Vella,11.785714285714286
 5019,1460,2,2,False,False,95,flat,Eixample,15.36842105263158
@@ -5092,15 +4920,11 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5096,850,2,1,True,False,45,flat,Sants-Montjuïc,18.88888888888889
 5097,800,1,1,True,False,47,flat,Sarria-Sant Gervasi,17.02127659574468
 5098,1250,2,1,True,False,80,flat,Eixample,15.625
-5099,750,1,1,True,False,58,,Eixample,12.93103448275862
 5100,975,3,1,True,True,75,flat,Eixample,13.0
 5102,1331,2,2,True,False,71,flat,Les Corts,18.74647887323944
 5103,4500,3,2,True,False,85,flat,Eixample,52.94117647058823
-5104,4000,0,1,True,False,120,,Sarria-Sant Gervasi,33.333333333333336
-5105,2400,3,3,True,False,140,,Sarria-Sant Gervasi,17.142857142857142
 5106,850,2,2,False,True,48,flat,Sants-Montjuïc,17.708333333333332
 5107,3600,5,4,True,True,260,flat,Sarria-Sant Gervasi,13.846153846153848
-5108,925,1,1,True,False,50,,Eixample,18.5
 5109,800,2,1,True,False,65,flat,Eixample,12.307692307692308
 5110,1800,4,2,True,True,180,flat,Sant Martí,10.0
 5111,1150,3,2,True,False,84,flat,Sants-Montjuïc,13.69047619047619
@@ -5113,7 +4937,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5118,750,2,1,True,False,50,flat,Les Corts,15.0
 5119,700,2,1,True,False,60,flat,Gràcia,11.666666666666666
 5120,850,2,2,True,False,63,flat,Eixample,13.492063492063492
-5121,725,1,1,True,False,35,,Sant Martí,20.714285714285715
 5122,950,2,1,False,True,67,attic,Sarria-Sant Gervasi,14.17910447761194
 5123,1250,1,1,True,True,59,flat,Eixample,21.1864406779661
 5124,745,0,1,True,False,25,study,Sarria-Sant Gervasi,29.8
@@ -5162,15 +4985,12 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5167,1550,4,2,True,True,159,flat,Sarria-Sant Gervasi,9.748427672955977
 5168,1500,4,2,True,False,96,flat,Les Corts,15.625
 5169,1250,3,2,True,False,130,flat,Eixample,9.615384615384617
-5170,925,3,2,False,False,86,,Sants-Montjuïc,10.755813953488373
 5171,1450,5,2,True,True,155,flat,Eixample,9.35483870967742
 5172,700,1,1,True,False,45,flat,Sarria-Sant Gervasi,15.555555555555555
 5173,891,1,1,True,False,48,flat,Les Corts,18.5625
-5174,850,5,2,False,True,103,,Sant Andreu,8.25242718446602
 5175,3200,3,2,True,False,120,flat,Eixample,26.666666666666668
 5176,1810,1,1,True,False,60,apartment,Sarria-Sant Gervasi,30.166666666666668
 5177,1810,1,1,True,False,60,apartment,Sarria-Sant Gervasi,30.166666666666668
-5178,1050,2,3,True,False,65,,Ciutat Vella,16.153846153846153
 5179,1140,1,1,True,False,52,flat,Eixample,21.923076923076923
 5180,650,1,1,True,True,30,attic,Sarria-Sant Gervasi,21.666666666666668
 5181,1526,3,2,True,False,100,flat,Sarria-Sant Gervasi,15.26
@@ -5192,11 +5012,9 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5197,790,1,1,True,False,60,flat,Sant Martí,13.166666666666666
 5198,4300,4,2,True,True,104,attic,Ciutat Vella,41.34615384615385
 5199,1200,1,1,True,False,55,flat,Gràcia,21.818181818181817
-5200,890,0,1,True,False,55,,Ciutat Vella,16.181818181818183
 5201,718,1,1,True,False,50,flat,Sant Martí,14.36
 5202,795,1,1,True,False,48,flat,Sant Martí,16.5625
 5203,1800,2,2,True,False,100,flat,Eixample,18.0
-5204,725,0,1,True,False,50,,Sants-Montjuïc,14.5
 5205,1350,4,2,True,False,120,flat,Sarria-Sant Gervasi,11.25
 5206,1200,4,2,True,False,110,flat,Eixample,10.909090909090908
 5207,720,2,1,False,False,53,flat,Ciutat Vella,13.58490566037736
@@ -5216,9 +5034,7 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5221,650,1,1,True,False,29,apartment,Eixample,22.41379310344828
 5222,650,1,1,False,False,50,study,Ciutat Vella,13.0
 5223,1075,2,2,True,False,65,flat,Ciutat Vella,16.53846153846154
-5224,800,1,1,True,False,33,,Ciutat Vella,24.24242424242424
 5225,1400,3,2,True,False,90,flat,Eixample,15.555555555555555
-5226,835,1,1,True,False,45,,Sant Martí,18.55555555555556
 5227,2300,7,2,True,False,200,flat,Eixample,11.5
 5228,1600,4,2,True,False,130,flat,Sarria-Sant Gervasi,12.307692307692308
 5229,1750,3,2,True,False,120,flat,Sarria-Sant Gervasi,14.583333333333334
@@ -5236,7 +5052,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5241,1190,3,2,True,False,96,flat,Les Corts,12.395833333333334
 5242,1390,3,2,True,False,149,flat,Ciutat Vella,9.328859060402683
 5243,750,2,1,False,False,45,flat,Ciutat Vella,16.666666666666668
-5244,1250,2,2,True,True,89,,Sarria-Sant Gervasi,14.044943820224718
 5245,1085,3,2,True,True,80,flat,Les Corts,13.5625
 5246,1025,2,1,False,True,75,flat,Eixample,13.666666666666666
 5247,4200,5,4,True,True,273,flat,Les Corts,15.384615384615383
@@ -5267,12 +5082,10 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5272,750,3,1,False,False,55,flat,Sants-Montjuïc,13.636363636363637
 5273,1080,3,2,False,False,92,flat,Gràcia,11.73913043478261
 5274,1800,3,1,False,False,80,flat,Sarria-Sant Gervasi,22.5
-5275,3200,3,2,True,False,85,,Sarria-Sant Gervasi,37.64705882352941
 5276,1440,3,2,False,False,100,flat,Sant Martí,14.4
 5277,2200,2,1,True,False,65,flat,Sarria-Sant Gervasi,33.84615384615385
 5278,715,1,1,False,False,40,flat,Sants-Montjuïc,17.875
 5279,3000,2,1,True,False,75,flat,Gràcia,40.0
-5280,2700,4,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
 5281,4500,3,2,True,False,80,flat,Eixample,56.25
 5282,2300,2,2,False,False,140,flat,Sant Martí,16.428571428571427
 5283,1290,4,2,True,False,100,flat,Sarria-Sant Gervasi,12.9
@@ -5300,7 +5113,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5305,700,2,1,True,False,50,flat,Les Corts,14.0
 5306,995,3,1,True,False,60,flat,Eixample,16.583333333333332
 5307,1800,2,1,False,False,80,flat,Sants-Montjuïc,22.5
-5308,5500,3,2,True,False,100,,Gràcia,55.0
 5309,4500,4,3,True,False,148,flat,Sarria-Sant Gervasi,30.405405405405407
 5310,2400,3,3,True,False,140,flat,Sarria-Sant Gervasi,17.142857142857142
 5311,4500,3,2,True,False,105,flat,Eixample,42.85714285714285
@@ -5346,7 +5158,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5351,825,1,1,False,False,50,flat,Ciutat Vella,16.5
 5352,927,2,2,True,False,65,flat,Eixample,14.261538461538462
 5353,1375,5,2,True,True,151,flat,Eixample,9.105960264900665
-5354,600,0,1,False,False,37,,Ciutat Vella,16.216216216216218
 5355,1600,4,2,True,False,101,flat,Eixample,15.84158415841584
 5356,950,3,1,True,False,71,flat,Sarria-Sant Gervasi,13.380281690140846
 5357,730,2,1,True,False,55,flat,Sant Martí,13.272727272727272
@@ -5377,7 +5188,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5382,545,0,1,True,False,19,study,Gràcia,28.68421052631579
 5383,925,3,1,True,False,70,flat,Nou Barris,13.214285714285714
 5384,925,3,1,True,False,70,flat,Nou Barris,13.214285714285714
-5385,580,0,1,True,False,20,,Gràcia,29.0
 5386,2400,3,2,True,False,90,flat,Eixample,26.666666666666668
 5387,850,2,1,True,False,80,flat,Horta- Guinardo,10.625
 5388,770,2,1,False,False,60,flat,Ciutat Vella,12.833333333333334
@@ -5398,10 +5208,7 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5403,695,2,2,False,False,65,flat,Horta- Guinardo,10.692307692307692
 5404,1270,3,1,False,False,115,flat,Sants-Montjuïc,11.043478260869565
 5405,890,3,1,True,True,83,attic,Eixample,10.72289156626506
-5406,4500,3,2,True,True,85,,Eixample,52.94117647058823
 5407,1810,1,1,False,False,60,flat,Sarria-Sant Gervasi,30.166666666666668
-5408,3000,2,1,True,False,85,,Gràcia,35.294117647058826
-5409,4500,3,2,True,True,85,,Eixample,52.94117647058823
 5410,1724,4,2,False,False,153,flat,Eixample,11.267973856209151
 5411,4500,4,3,True,False,150,flat,Sarria-Sant Gervasi,30.0
 5412,1000,3,1,True,False,80,flat,Ciutat Vella,12.5
@@ -5467,9 +5274,7 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5472,1370,4,2,True,False,129,flat,Sants-Montjuïc,10.62015503875969
 5473,1007,3,1,False,False,80,flat,Eixample,12.5875
 5474,775,3,1,True,False,50,flat,Sant Andreu,15.5
-5475,600,1,1,False,False,38,,Ciutat Vella,15.789473684210526
 5476,1249,3,2,True,False,90,flat,Eixample,13.877777777777778
-5477,726,0,1,False,False,35,,Gràcia,20.742857142857144
 5478,1750,2,1,False,True,80,apartment,Ciutat Vella,21.875
 5479,1300,4,1,True,False,97,flat,Les Corts,13.402061855670103
 5480,950,3,1,True,False,74,flat,Les Corts,12.83783783783784
@@ -5480,13 +5285,11 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5485,1200,3,2,True,False,105,flat,Eixample,11.428571428571429
 5486,880,4,1,False,False,88,flat,Sants-Montjuïc,10.0
 5487,975,4,2,True,False,97,flat,Ciutat Vella,10.051546391752575
-5488,1573,1,2,False,False,122,,Gràcia,12.89344262295082
 5489,1600,2,1,True,False,60,flat,Eixample,26.666666666666668
 5490,1360,3,2,True,False,92,flat,Sant Martí,14.782608695652174
 5491,1090,4,1,True,True,86,flat,Les Corts,12.674418604651162
 5492,950,3,1,True,True,81,flat,Les Corts,11.728395061728396
 5493,950,3,1,True,True,81,flat,Les Corts,11.728395061728396
-5494,1250,2,2,True,False,90,,Sant Martí,13.88888888888889
 5495,3300,2,2,False,False,120,flat,Eixample,27.5
 5496,870,2,1,True,True,78,flat,Sant Martí,11.153846153846152
 5497,1200,0,4,True,True,120,flat,Sants-Montjuïc,10.0
@@ -5496,18 +5299,13 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5501,1220,4,2,True,True,105,flat,Eixample,11.61904761904762
 5502,1100,2,1,False,False,55,flat,Les Corts,20.0
 5503,3900,5,5,True,False,325,flat,Sarria-Sant Gervasi,12.0
-5504,4000,3,2,True,False,120,,Sarria-Sant Gervasi,33.333333333333336
-5505,2700,3,2,True,False,85,,Sarria-Sant Gervasi,31.764705882352946
 5506,695,2,1,False,False,51,flat,Sants-Montjuïc,13.627450980392156
-5507,5500,3,2,True,False,100,,Gràcia,55.0
 5508,775,4,1,False,False,66,flat,Eixample,11.742424242424242
 5509,1850,3,2,False,False,105,flat,Sarria-Sant Gervasi,17.61904761904762
 5510,1100,3,1,False,False,55,flat,Les Corts,20.0
 5511,980,4,2,True,False,78,flat,Sant Martí,12.564102564102564
-5512,5500,3,2,True,False,140,,Sarria-Sant Gervasi,39.285714285714285
 5513,2200,2,1,True,False,65,flat,Sarria-Sant Gervasi,33.84615384615385
 5514,1115,2,1,True,False,55,flat,Eixample,20.272727272727277
-5515,2400,3,2,True,False,140,,Sarria-Sant Gervasi,17.142857142857142
 5516,1172,2,1,True,False,58,flat,Eixample,20.20689655172414
 5517,700,1,1,True,False,30,flat,Sants-Montjuïc,23.33333333333333
 5518,892,3,1,True,False,85,flat,Sant Martí,10.494117647058824
@@ -5555,7 +5353,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5560,1950,2,1,True,False,74,flat,Les Corts,26.35135135135135
 5561,1450,4,2,True,False,104,flat,Sant Martí,13.942307692307692
 5562,1250,2,2,True,False,75,apartment,Gràcia,16.666666666666668
-5563,950,1,1,True,False,55,,Eixample,17.272727272727273
 5564,750,2,1,False,False,54,flat,Sants-Montjuïc,13.88888888888889
 5565,750,2,1,False,False,58,flat,Nou Barris,12.93103448275862
 5566,1070,2,1,False,False,65,flat,Eixample,16.46153846153846
@@ -5568,7 +5365,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5573,900,1,1,True,False,50,flat,Sarria-Sant Gervasi,18.0
 5574,800,2,1,False,True,60,flat,Ciutat Vella,13.333333333333334
 5575,800,1,1,False,False,40,flat,Ciutat Vella,20.0
-5576,1150,1,1,True,False,58,,Eixample,19.82758620689655
 5577,890,3,1,True,False,83,flat,Sant Martí,10.72289156626506
 5578,800,2,2,True,False,68,flat,Sarria-Sant Gervasi,11.764705882352942
 5579,850,1,1,True,False,50,flat,Ciutat Vella,17.0
@@ -5602,7 +5398,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5607,890,1,1,False,False,60,flat,Ciutat Vella,14.833333333333334
 5608,670,1,1,False,False,43,flat,Nou Barris,15.581395348837209
 5609,800,3,1,False,False,55,flat,Sant Martí,14.545454545454543
-5610,600,1,1,True,False,35,,Ciutat Vella,17.142857142857142
 5611,720,1,1,True,False,45,apartment,Sarria-Sant Gervasi,16.0
 5612,1300,1,1,True,False,50,flat,Eixample,26.0
 5613,1290,4,2,True,True,120,flat,Horta- Guinardo,10.75
@@ -5635,8 +5430,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5640,880,3,1,True,False,76,flat,Gràcia,11.578947368421051
 5641,740,2,1,False,True,60,flat,Horta- Guinardo,12.333333333333334
 5642,1150,3,2,True,False,80,flat,Sarria-Sant Gervasi,14.375
-5643,1160,3,2,False,False,105,,Les Corts,11.047619047619047
-5644,1180,3,2,True,False,100,,Les Corts,11.8
 5645,725,2,1,True,False,53,flat,Eixample,13.679245283018869
 5646,1050,3,1,False,False,84,flat,Gràcia,12.5
 5647,3200,3,2,True,False,150,flat,Sarria-Sant Gervasi,21.33333333333333
@@ -5690,7 +5483,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5695,821,3,1,True,False,70,flat,Sant Andreu,11.728571428571428
 5696,850,2,1,True,False,60,flat,Eixample,14.166666666666666
 5697,795,3,1,False,False,70,flat,Sant Martí,11.357142857142858
-5698,5500,3,2,True,False,100,,Gràcia,55.0
 5699,750,2,1,False,False,51,flat,Gràcia,14.705882352941176
 5700,1250,4,2,True,False,128,flat,Eixample,9.765625
 5701,1400,4,2,True,False,112,flat,Les Corts,12.5
@@ -5709,8 +5501,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5714,1390,1,1,True,True,60,flat,Les Corts,23.166666666666668
 5715,1000,3,1,True,False,70,flat,Sants-Montjuïc,14.285714285714286
 5716,1000,3,1,True,False,70,flat,Sants-Montjuïc,14.285714285714286
-5717,3200,3,2,True,False,85,,Sarria-Sant Gervasi,37.64705882352941
-5718,2400,3,3,True,False,140,,Sarria-Sant Gervasi,17.142857142857142
 5719,1220,4,2,False,False,120,flat,Eixample,10.166666666666666
 5720,1180,3,2,True,False,100,flat,Eixample,11.8
 5721,800,2,1,True,False,55,flat,Eixample,14.545454545454543
@@ -5724,7 +5514,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5729,850,2,1,True,False,67,flat,Ciutat Vella,12.686567164179104
 5730,980,3,2,True,False,75,flat,Gràcia,13.066666666666666
 5731,700,3,1,False,False,65,flat,Horta- Guinardo,10.76923076923077
-5732,680,0,2,False,True,58,,Ciutat Vella,11.724137931034482
 5733,800,2,1,True,False,60,flat,Eixample,13.333333333333334
 5734,700,1,1,False,False,48,flat,Nou Barris,14.583333333333334
 5735,845,3,1,False,False,68,flat,Les Corts,12.426470588235292
@@ -5805,12 +5594,10 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5810,950,3,1,True,False,66,flat,Sarria-Sant Gervasi,14.393939393939394
 5811,1400,4,2,True,False,106,flat,Sarria-Sant Gervasi,13.20754716981132
 5812,3200,4,3,False,False,168,flat,Sarria-Sant Gervasi,19.047619047619047
-5813,4600,3,2,True,True,80,,Eixample,57.5
 5814,1175,2,2,True,False,80,flat,Eixample,14.6875
 5815,1184,3,2,True,False,80,flat,Eixample,14.8
 5816,950,3,1,True,False,83,flat,Sarria-Sant Gervasi,11.44578313253012
 5817,1200,4,1,True,False,85,apartment,Gràcia,14.117647058823527
-5818,2300,3,2,True,False,140,,Sarria-Sant Gervasi,16.428571428571427
 5819,1400,2,1,True,False,80,flat,Sarria-Sant Gervasi,17.5
 5820,995,3,1,True,True,75,flat,Sant Andreu,13.266666666666667
 5821,1250,3,2,True,True,87,flat,Eixample,14.367816091954024
@@ -5820,7 +5607,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5825,1095,1,1,True,False,45,flat,Eixample,24.33333333333333
 5826,1150,2,1,True,False,60,flat,Eixample,19.166666666666668
 5827,1150,3,1,True,False,101,flat,Sant Martí,11.386138613861386
-5828,5500,3,2,True,False,100,,Gràcia,55.0
 5829,1700,3,1,True,False,75,flat,Sarria-Sant Gervasi,22.666666666666668
 5830,620,2,1,False,False,54,flat,Nou Barris,11.48148148148148
 5831,1150,3,1,True,True,71,flat,Sarria-Sant Gervasi,16.197183098591548
@@ -5903,7 +5689,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5908,875,3,1,True,False,74,flat,Ciutat Vella,11.824324324324325
 5909,2130,5,2,True,True,160,flat,Sarria-Sant Gervasi,13.3125
 5910,895,4,1,True,False,96,flat,Sant Andreu,9.322916666666666
-5911,950,1,1,True,False,54,,Sarria-Sant Gervasi,17.59259259259259
 5912,1075,2,1,True,False,77,flat,Sant Martí,13.96103896103896
 5913,750,2,1,False,False,65,flat,Sants-Montjuïc,11.538461538461538
 5914,980,3,1,True,False,85,flat,Eixample,11.529411764705882
@@ -5915,7 +5700,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5920,890,2,1,False,False,60,flat,Gràcia,14.833333333333334
 5921,1100,3,1,True,False,55,flat,Sarria-Sant Gervasi,20.0
 5922,1800,4,2,True,True,115,attic,Sant Martí,15.652173913043478
-5923,2800,0,1,True,False,75,,Gràcia,37.333333333333336
 5924,3000,2,1,True,False,85,flat,Gràcia,35.294117647058826
 5925,950,3,1,True,True,73,flat,Sant Martí,13.013698630136986
 5926,4500,4,3,True,False,130,flat,Eixample,34.61538461538461
@@ -5977,7 +5761,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 5982,995,1,1,False,False,70,flat,Sants-Montjuïc,14.214285714285714
 5983,900,1,1,True,False,55,flat,Gràcia,16.363636363636363
 5984,1400,1,1,True,True,71,flat,Sarria-Sant Gervasi,19.718309859154928
-5985,1995,4,8,False,False,100,flat,Eixample,19.95
 5986,1150,1,1,True,False,42,flat,Ciutat Vella,27.38095238095238
 5987,995,2,2,False,False,52,flat,Gràcia,19.134615384615383
 5988,995,2,2,False,False,52,flat,Gràcia,19.134615384615383
@@ -6168,8 +5951,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6173,2200,3,2,False,False,100,apartment,Ciutat Vella,22.0
 6174,1740,2,1,False,False,48,apartment,Ciutat Vella,36.25
 6175,982,2,2,True,False,76,flat,Sarria-Sant Gervasi,12.921052631578949
-6176,800,0,1,True,False,35,,Eixample,22.857142857142858
-6177,800,0,1,True,False,35,,Eixample,22.857142857142858
 6178,4166,3,2,False,False,92,apartment,Eixample,45.28260869565217
 6179,5000,3,2,False,False,100,apartment,Sant Martí,50.0
 6180,1500,2,1,False,False,50,apartment,Ciutat Vella,30.0
@@ -6279,7 +6060,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6284,1434,2,1,True,False,60,flat,Eixample,23.9
 6285,1695,2,4,True,False,65,flat,Eixample,26.07692307692308
 6286,2750,3,2,True,False,200,flat,Eixample,13.75
-6287,1095,0,1,True,False,60,,Eixample,18.25
 6288,795,1,1,False,False,40,flat,Eixample,19.875
 6289,1261,2,1,True,False,65,flat,Eixample,19.4
 6290,1228,2,1,True,False,63,flat,Eixample,19.49206349206349
@@ -6356,7 +6136,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6361,925,3,1,True,False,70,flat,Les Corts,13.214285714285714
 6362,1500,4,3,True,False,110,flat,Sarria-Sant Gervasi,13.636363636363637
 6363,2300,3,2,True,False,195,flat,Sarria-Sant Gervasi,11.794871794871796
-6364,690,0,1,False,False,45,,Ciutat Vella,15.333333333333334
 6365,950,3,2,True,False,95,flat,Gràcia,10.0
 6366,850,2,1,True,False,65,flat,Sarria-Sant Gervasi,13.076923076923077
 6367,2100,4,2,True,False,160,flat,Eixample,13.125
@@ -6550,15 +6329,12 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6555,1400,3,2,True,False,85,flat,Les Corts,16.470588235294116
 6556,1150,2,1,True,False,55,flat,Sants-Montjuïc,20.90909090909091
 6557,890,3,1,True,False,61,flat,Sant Martí,14.59016393442623
-6558,750,0,1,False,False,45,,Ciutat Vella,16.666666666666668
 6559,960,3,2,True,False,76,flat,Nou Barris,12.63157894736842
 6560,700,1,1,False,True,45,study,Ciutat Vella,15.555555555555555
 6561,750,2,1,False,False,51,flat,Gràcia,14.705882352941176
-6562,6000,2,2,True,True,290,,Eixample,20.689655172413797
 6563,1282,1,1,True,True,61,flat,Ciutat Vella,21.016393442622952
 6564,700,1,1,True,False,55,flat,Sants-Montjuïc,12.727272727272728
 6565,950,4,2,True,False,85,flat,Sants-Montjuïc,11.176470588235292
-6566,2600,3,3,False,True,170,,Sant Martí,15.294117647058824
 6567,900,4,1,True,False,84,flat,Sarria-Sant Gervasi,10.714285714285714
 6568,1100,3,2,True,False,90,flat,Ciutat Vella,12.22222222222222
 6569,950,1,1,True,False,50,flat,Ciutat Vella,19.0
@@ -6602,15 +6378,12 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6607,900,2,1,True,False,65,flat,Sarria-Sant Gervasi,13.846153846153848
 6608,880,2,1,True,False,60,flat,Sarria-Sant Gervasi,14.666666666666666
 6609,1500,3,2,True,True,105,flat,Sant Martí,14.285714285714286
-6610,1000,2,2,True,False,70,,Ciutat Vella,14.285714285714286
-6611,1000,2,2,True,False,70,,Ciutat Vella,14.285714285714286
 6612,2900,3,2,True,False,145,flat,Eixample,20.0
 6613,700,1,1,False,False,40,apartment,Ciutat Vella,17.5
 6614,625,2,1,False,False,51,flat,Ciutat Vella,12.254901960784316
 6615,700,2,1,True,False,50,flat,Ciutat Vella,14.0
 6616,1903,1,1,False,False,50,apartment,Ciutat Vella,38.06
 6617,1400,2,1,False,False,65,apartment,Eixample,21.53846153846154
-6618,1200,1,1,True,False,50,,Sarria-Sant Gervasi,24.0
 6619,1950,2,2,True,False,100,flat,Eixample,19.5
 6620,790,1,1,True,True,49,apartment,Les Corts,16.122448979591837
 6621,975,3,1,False,False,70,flat,Gràcia,13.928571428571429
@@ -6643,7 +6416,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6648,1800,3,2,True,False,129,flat,Sarria-Sant Gervasi,13.953488372093023
 6649,750,3,1,False,False,80,flat,Horta- Guinardo,9.375
 6650,1100,2,1,True,False,90,flat,Ciutat Vella,12.22222222222222
-6651,950,1,1,True,False,100,,Sant Martí,9.5
 6652,1150,3,2,True,False,80,flat,Eixample,14.375
 6653,977,2,1,True,False,67,flat,Sarria-Sant Gervasi,14.582089552238806
 6654,750,1,1,True,False,52,study,Gràcia,14.423076923076923
@@ -6672,7 +6444,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6677,1150,4,2,True,False,82,flat,Eixample,14.024390243902438
 6678,1135,3,1,True,False,93,flat,Eixample,12.204301075268818
 6679,850,3,1,True,False,68,flat,Sant Martí,12.5
-6680,1095,1,2,True,False,63,,Sarria-Sant Gervasi,17.38095238095238
 6681,795,1,1,False,False,40,flat,Ciutat Vella,19.875
 6682,850,3,1,True,False,75,flat,Eixample,11.333333333333334
 6683,1600,2,2,False,True,75,flat,Eixample,21.33333333333333
@@ -6684,7 +6455,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6689,1100,3,1,True,False,61,attic,Sarria-Sant Gervasi,18.0327868852459
 6690,1150,2,1,True,False,66,flat,Sarria-Sant Gervasi,17.424242424242426
 6691,900,2,1,False,False,59,flat,Sarria-Sant Gervasi,15.254237288135592
-6692,900,2,1,True,False,78,,Horta- Guinardo,11.538461538461538
 6693,1000,4,2,True,True,90,flat,Eixample,11.11111111111111
 6694,645,1,1,False,False,36,flat,Ciutat Vella,17.916666666666668
 6695,1150,1,1,True,False,60,attic,Ciutat Vella,19.166666666666668
@@ -6721,7 +6491,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6726,875,3,2,True,False,66,flat,Eixample,13.257575757575758
 6727,1300,2,1,True,False,80,flat,Sarria-Sant Gervasi,16.25
 6728,900,3,1,True,False,75,flat,Sant Martí,12.0
-6729,2500,3,3,True,False,140,,Sarria-Sant Gervasi,17.857142857142858
 6730,1000,1,1,False,False,55,apartment,Sants-Montjuïc,18.181818181818183
 6731,900,2,1,True,False,65,flat,Sarria-Sant Gervasi,13.846153846153848
 6732,2500,3,2,True,True,150,attic,Eixample,16.666666666666668
@@ -6734,7 +6503,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6739,825,1,1,False,True,33,flat,Sants-Montjuïc,25.0
 6740,795,1,1,False,False,55,flat,Ciutat Vella,14.454545454545457
 6741,795,1,1,True,False,60,flat,Sarria-Sant Gervasi,13.25
-6742,825,1,1,False,False,80,,Ciutat Vella,10.3125
 6743,1050,3,1,True,True,69,flat,Eixample,15.217391304347826
 6744,1095,1,1,True,False,80,flat,Sarria-Sant Gervasi,13.6875
 6745,750,2,1,True,False,50,flat,Eixample,15.0
@@ -6818,7 +6586,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6823,1115,3,2,True,False,75,flat,Gràcia,14.866666666666667
 6824,2650,2,2,True,False,115,flat,Eixample,23.043478260869566
 6825,900,3,2,True,False,74,flat,Les Corts,12.16216216216216
-6826,795,1,1,True,False,50,,Ciutat Vella,15.9
 6827,3935,2,2,False,False,80,apartment,Gràcia,49.1875
 6828,1999,3,2,True,False,85,flat,Eixample,23.51764705882353
 6829,1990,5,2,True,False,140,flat,Eixample,14.214285714285714
@@ -6872,7 +6639,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6877,720,1,1,False,True,32,apartment,Ciutat Vella,22.5
 6878,2200,3,3,True,False,141,flat,Eixample,15.602836879432624
 6879,995,2,2,True,False,65,flat,Sant Martí,15.307692307692308
-6880,1292,2,2,True,False,95,,Ciutat Vella,13.6
 6881,1140,3,2,True,False,103,flat,Sant Martí,11.067961165048544
 6882,1560,3,2,True,False,77,flat,Sant Martí,20.25974025974026
 6883,999,2,1,True,True,52,flat,Sant Martí,19.21153846153846
@@ -6951,7 +6717,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6957,1150,4,1,True,False,75,apartment,Ciutat Vella,15.333333333333334
 6958,700,1,1,False,False,45,flat,Ciutat Vella,15.555555555555555
 6959,1150,4,2,False,True,97,flat,Sant Martí,11.855670103092784
-6960,726,1,1,True,False,50,,Sant Martí,14.52
 6961,950,1,1,True,False,65,apartment,Sarria-Sant Gervasi,14.615384615384617
 6962,900,3,2,True,False,72,flat,Sants-Montjuïc,12.5
 6963,700,1,1,True,False,44,flat,Sarria-Sant Gervasi,15.909090909090908
@@ -6960,7 +6725,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 6966,1163,3,2,True,False,65,flat,Eixample,17.892307692307693
 6967,1363,1,1,True,True,76,flat,Les Corts,17.93421052631579
 6968,1075,1,1,True,True,56,attic,Sarria-Sant Gervasi,19.196428571428573
-6969,950,4,2,True,False,150,,Sant Martí,6.333333333333333
 6970,1000,4,1,True,False,99,flat,Gràcia,10.1010101010101
 6971,980,3,2,True,False,98,flat,Sant Andreu,10.0
 6972,1075,2,1,True,False,90,flat,Sarria-Sant Gervasi,11.944444444444445
@@ -7002,7 +6766,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7008,1900,2,2,True,False,84,apartment,Eixample,22.61904761904762
 7009,1350,3,2,True,False,114,flat,Eixample,11.842105263157896
 7010,1380,3,2,True,True,90,flat,Eixample,15.333333333333334
-7011,950,2,1,True,False,50,,Ciutat Vella,19.0
 7012,1350,2,1,True,False,55,apartment,Eixample,24.545454545454547
 7013,850,3,1,True,False,56,flat,Sants-Montjuïc,15.178571428571429
 7014,875,3,1,False,False,75,flat,Sant Martí,11.666666666666666
@@ -7060,7 +6823,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7066,1250,5,2,True,False,112,flat,Ciutat Vella,11.160714285714286
 7067,900,2,1,True,True,65,flat,Sarria-Sant Gervasi,13.846153846153848
 7068,1150,4,2,True,False,85,flat,Sarria-Sant Gervasi,13.529411764705882
-7069,1750,2,2,True,False,75,,Eixample,23.33333333333333
 7070,990,4,2,True,True,102,flat,Eixample,9.705882352941176
 7071,1650,2,1,True,True,70,apartment,Ciutat Vella,23.571428571428573
 7072,875,1,1,False,False,34,apartment,Ciutat Vella,25.735294117647054
@@ -7182,6 +6944,7 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7188,750,1,1,False,False,35,flat,Ciutat Vella,21.428571428571427
 7189,950,1,1,True,False,60,flat,Sants-Montjuïc,15.833333333333334
 7190,3200,4,3,True,False,170,flat,Sarria-Sant Gervasi,18.823529411764707
+7191,895,1,2,False,False,55,flat,Sarria-Sant Gervasi,16.272727272727273
 7192,2250,3,2,True,True,165,flat,Les Corts,13.636363636363637
 7193,2750,4,3,True,False,200,flat,Les Corts,13.75
 7194,1395,1,1,True,False,52,apartment,Sarria-Sant Gervasi,26.82692307692308
@@ -7203,7 +6966,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7210,910,2,1,True,False,50,flat,Les Corts,18.2
 7211,1100,2,2,False,False,80,flat,Ciutat Vella,13.75
 7212,2800,2,1,False,False,55,apartment,Sant Martí,50.90909090909091
-7213,5300,4,6,True,True,250,,Sarria-Sant Gervasi,21.2
 7214,3000,3,3,True,False,200,flat,Sarria-Sant Gervasi,15.0
 7215,1000,1,1,True,True,55,apartment,Gràcia,18.181818181818183
 7216,1000,4,1,True,False,81,flat,Sants-Montjuïc,12.34567901234568
@@ -7295,7 +7057,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7302,950,3,2,False,True,88,flat,Sant Martí,10.795454545454543
 7303,550,0,1,False,False,24,study,Ciutat Vella,22.916666666666668
 7304,1500,3,2,True,False,140,flat,Eixample,10.714285714285714
-7305,1200,1,2,False,False,41,,Ciutat Vella,29.26829268292683
 7306,1200,5,2,True,False,124,flat,Eixample,9.67741935483871
 7307,720,2,1,False,False,45,flat,Sants-Montjuïc,16.0
 7308,1595,2,2,False,False,60,apartment,Eixample,26.58333333333333
@@ -7340,8 +7101,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7347,950,3,1,True,False,70,flat,Eixample,13.571428571428571
 7348,995,3,1,False,False,80,flat,Sants-Montjuïc,12.4375
 7349,1600,1,1,False,True,69,flat,Gràcia,23.18840579710145
-7350,2650,2,2,False,False,90,,Eixample,29.444444444444443
-7351,900,1,1,False,False,36,,Ciutat Vella,25.0
 7352,850,1,1,True,True,65,flat,Sants-Montjuïc,13.076923076923077
 7353,950,1,1,True,False,65,apartment,Sarria-Sant Gervasi,14.615384615384617
 7354,1600,4,3,True,True,125,flat,Les Corts,12.8
@@ -7353,7 +7112,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7360,1000,1,2,True,False,100,flat,Ciutat Vella,10.0
 7361,5384,4,2,True,True,165,flat,Sarria-Sant Gervasi,32.63030303030303
 7362,1600,1,1,True,False,80,flat,Ciutat Vella,20.0
-7363,780,0,1,True,False,25,,Sarria-Sant Gervasi,31.2
 7364,900,1,1,True,True,50,flat,Sarria-Sant Gervasi,18.0
 7365,1150,1,1,True,True,92,flat,Les Corts,12.5
 7366,921,2,1,False,False,53,flat,Sants-Montjuïc,17.37735849056604
@@ -7363,7 +7121,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7370,700,1,2,True,False,32,flat,Eixample,21.875
 7371,800,2,1,False,False,62,flat,Ciutat Vella,12.903225806451612
 7372,950,3,2,True,False,79,flat,Eixample,12.025316455696204
-7373,685,1,1,True,False,30,,Les Corts,22.83333333333333
 7374,1400,4,2,False,False,96,flat,Sants-Montjuïc,14.583333333333334
 7375,1150,1,1,True,False,53,flat,Sarria-Sant Gervasi,21.69811320754717
 7376,950,2,1,True,False,55,flat,Ciutat Vella,17.272727272727273
@@ -7386,7 +7143,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7393,995,3,2,False,True,79,flat,Sants-Montjuïc,12.59493670886076
 7394,1350,3,2,True,False,95,flat,Ciutat Vella,14.210526315789474
 7395,1150,3,1,True,False,80,flat,Eixample,14.375
-7396,990,1,1,True,False,151,,Sants-Montjuïc,6.556291390728477
 7397,4500,2,2,True,False,105,flat,Ciutat Vella,42.85714285714285
 7398,500,0,1,False,False,30,flat,Ciutat Vella,16.666666666666668
 7399,1825,3,2,True,False,91,flat,Eixample,20.05494505494505
@@ -7452,6 +7208,7 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7459,1000,3,2,False,False,75,flat,Sarria-Sant Gervasi,13.333333333333334
 7460,2963,3,2,False,False,85,apartment,Ciutat Vella,34.858823529411765
 7461,1250,3,2,True,False,93,flat,Gràcia,13.440860215053764
+7462,1600,3,1,True,True,116,flat,Sarria-Sant Gervasi,13.79310344827586
 7464,765,0,1,True,False,33,apartment,Eixample,23.181818181818183
 7465,2150,4,1,True,False,120,flat,Eixample,17.916666666666668
 7466,1600,2,2,True,False,90,flat,Sarria-Sant Gervasi,17.77777777777778
@@ -7474,7 +7231,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7483,1929,1,1,False,False,50,apartment,Les Corts,38.58
 7484,1000,4,2,True,True,95,flat,Eixample,10.526315789473683
 7485,1400,3,2,True,False,95,flat,Eixample,14.736842105263158
-7486,690,0,1,False,False,32,,Ciutat Vella,21.5625
 7487,1950,4,2,True,True,130,attic,Eixample,15.0
 7488,1150,5,2,True,False,140,flat,Ciutat Vella,8.214285714285714
 7489,2100,4,2,True,False,144,flat,Ciutat Vella,14.583333333333334
@@ -7575,7 +7331,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7584,1045,2,1,False,False,41,apartment,Sants-Montjuïc,25.48780487804878
 7585,847,1,1,True,False,40,study,Eixample,21.175
 7586,1120,3,1,False,False,85,flat,Sarria-Sant Gervasi,13.176470588235292
-7587,950,2,2,True,False,80,,Sants-Montjuïc,11.875
 7588,900,3,2,True,False,75,flat,Sants-Montjuïc,12.0
 7589,1100,3,2,True,False,83,flat,Les Corts,13.25301204819277
 7590,990,2,2,False,True,76,flat,Gràcia,13.026315789473683
@@ -7653,14 +7408,10 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7663,2108,3,1,False,False,65,apartment,Sant Martí,32.43076923076923
 7664,1350,3,1,False,False,90,apartment,Ciutat Vella,15.0
 7665,1375,2,1,True,False,85,flat,Sarria-Sant Gervasi,16.176470588235293
-7666,610,0,1,True,False,24,,Eixample,25.416666666666668
 7667,655,1,1,True,False,34,apartment,Sants-Montjuïc,19.264705882352946
-7668,600,0,1,True,False,22,,Gràcia,27.272727272727277
-7669,640,0,1,True,False,29,,Sant Martí,22.06896551724138
 7670,685,1,1,True,False,32,apartment,Eixample,21.40625
 7671,875,3,1,True,False,55,flat,Eixample,15.909090909090908
 7672,750,1,1,True,False,25,apartment,Horta- Guinardo,30.0
-7673,700,0,1,True,False,25,,Horta- Guinardo,28.0
 7674,1200,2,1,True,False,75,flat,Ciutat Vella,16.0
 7675,1750,5,3,True,False,140,flat,Sarria-Sant Gervasi,12.5
 7676,790,1,1,True,False,55,study,Horta- Guinardo,14.363636363636363
@@ -7705,7 +7456,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7716,1250,3,2,True,False,96,flat,Gràcia,13.020833333333334
 7717,1150,4,2,True,False,126,flat,Les Corts,9.126984126984128
 7718,850,2,1,False,False,68,attic,Les Corts,12.5
-7719,5500,5,8,True,True,280,attic,Sarria-Sant Gervasi,19.642857142857142
 7720,1200,3,2,False,False,95,flat,Gràcia,12.63157894736842
 7721,900,3,1,True,False,87,flat,Eixample,10.344827586206897
 7722,1700,3,2,True,True,142,flat,Eixample,11.971830985915492
@@ -7750,7 +7500,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7761,1191,2,2,True,False,95,flat,Ciutat Vella,12.536842105263158
 7762,3839,2,2,False,False,90,apartment,Eixample,42.65555555555556
 7763,1200,3,2,True,True,85,flat,Eixample,14.117647058823527
-7764,1200,3,2,True,False,78,,Sant Martí,15.384615384615383
 7765,1000,3,1,False,False,75,flat,Sant Martí,13.333333333333334
 7766,1100,2,1,True,True,60,flat,Eixample,18.33333333333333
 7767,890,1,1,True,False,76,flat,Eixample,11.710526315789474
@@ -7829,12 +7578,10 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7840,1100,2,1,True,False,80,flat,Eixample,13.75
 7841,900,2,1,True,False,63,flat,Ciutat Vella,14.285714285714286
 7842,2000,2,4,True,False,103,attic,Ciutat Vella,19.41747572815534
-7843,1375,3,3,False,False,280,,Sarria-Sant Gervasi,4.910714285714286
 7844,1695,1,1,True,False,79,flat,Sarria-Sant Gervasi,21.455696202531644
 7845,4200,2,2,True,False,90,flat,Ciutat Vella,46.66666666666666
 7846,825,3,1,False,False,59,apartment,Gràcia,13.983050847457626
 7847,1300,4,2,True,True,63,flat,Ciutat Vella,20.63492063492064
-7848,530,0,1,False,False,26,,Sants-Montjuïc,20.384615384615383
 7849,1250,3,2,True,False,78,flat,Eixample,16.025641025641026
 7850,850,3,1,True,False,55,flat,Gràcia,15.454545454545457
 7851,1046,1,1,True,False,45,flat,Sarria-Sant Gervasi,23.244444444444444
@@ -7862,7 +7609,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7873,1200,2,2,True,False,90,flat,Eixample,13.333333333333334
 7874,950,1,1,True,False,60,flat,Sarria-Sant Gervasi,15.833333333333334
 7875,1100,1,1,True,False,60,flat,Eixample,18.33333333333333
-7876,700,1,1,True,False,45,,Gràcia,15.555555555555555
 7877,800,1,1,True,False,40,flat,Ciutat Vella,20.0
 7878,1483,2,2,True,False,80,apartment,Eixample,18.5375
 7879,1990,3,2,True,False,110,flat,Eixample,18.09090909090909
@@ -7907,11 +7653,9 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7918,2250,2,1,True,True,85,attic,Eixample,26.47058823529412
 7919,1150,3,2,False,True,60,flat,Eixample,19.166666666666668
 7920,4900,4,4,True,False,184,apartment,Sarria-Sant Gervasi,26.630434782608692
-7921,6000,2,2,True,True,318,,Ciutat Vella,18.867924528301888
 7922,1300,3,1,False,True,80,flat,Sarria-Sant Gervasi,16.25
 7923,1350,4,2,True,False,95,flat,Sants-Montjuïc,14.210526315789474
 7924,1600,3,2,True,False,127,flat,Ciutat Vella,12.598425196850394
-7925,1100,1,1,True,False,102,,Sants-Montjuïc,10.784313725490197
 7926,5500,5,4,True,True,260,attic,Sarria-Sant Gervasi,21.153846153846157
 7927,8000,4,6,True,True,443,flat,Sarria-Sant Gervasi,18.058690744920995
 7929,1750,3,2,True,False,135,flat,Sarria-Sant Gervasi,12.962962962962964
@@ -7924,7 +7668,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7936,1000,1,1,True,False,95,flat,Eixample,10.526315789473683
 7937,1300,2,1,True,False,70,flat,Horta- Guinardo,18.571428571428573
 7938,600,1,1,False,False,40,study,Horta- Guinardo,15.0
-7939,1000,2,2,True,False,66,,Ciutat Vella,15.151515151515152
 7940,1600,4,2,True,False,111,flat,Les Corts,14.414414414414416
 7941,1450,4,2,True,False,106,flat,Les Corts,13.679245283018869
 7942,950,3,1,True,False,83,flat,Gràcia,11.44578313253012
@@ -7945,7 +7688,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7957,750,1,1,True,False,38,attic,Gràcia,19.73684210526316
 7958,1900,2,2,True,False,83,flat,Eixample,22.89156626506024
 7959,1300,1,1,True,True,50,flat,Sants-Montjuïc,26.0
-7960,4000,3,4,True,False,350,,Les Corts,11.428571428571429
 7961,860,1,1,True,False,70,study,Eixample,12.285714285714286
 7962,750,1,1,True,False,40,flat,Ciutat Vella,18.75
 7963,1050,4,1,False,False,75,flat,Les Corts,14.0
@@ -7953,7 +7695,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 7965,1800,3,2,True,False,136,flat,Eixample,13.235294117647058
 7966,1675,3,2,True,False,100,flat,Eixample,16.75
 7967,1225,1,1,True,False,50,apartment,Eixample,24.5
-7968,800,2,2,True,False,60,,Horta- Guinardo,13.333333333333334
 7969,995,2,1,False,True,60,attic,Ciutat Vella,16.583333333333332
 7970,1150,0,1,False,False,80,flat,Sarria-Sant Gervasi,14.375
 7971,1020,3,1,True,False,70,flat,Sants-Montjuïc,14.571428571428571
@@ -7993,7 +7734,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 8005,1050,3,1,False,False,70,flat,Eixample,15.0
 8006,3900,6,5,True,True,250,flat,Eixample,15.6
 8007,1500,3,1,True,False,90,flat,Eixample,16.666666666666668
-8008,2750,5,2,False,False,179,,Ciutat Vella,15.363128491620111
 8009,4000,4,3,True,False,200,flat,Les Corts,20.0
 8010,1400,2,1,True,False,50,flat,Ciutat Vella,28.0
 8011,1400,2,1,True,False,61,flat,Ciutat Vella,22.950819672131143
@@ -8010,11 +7750,9 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 8022,1100,2,1,True,True,82,flat,Sarria-Sant Gervasi,13.414634146341465
 8023,1450,4,2,True,False,120,flat,Sarria-Sant Gervasi,12.083333333333334
 8024,1700,2,2,True,True,93,flat,Ciutat Vella,18.27956989247312
-8025,590,0,1,False,False,46,,Ciutat Vella,12.826086956521738
 8026,800,3,1,False,False,80,flat,Nou Barris,10.0
 8027,900,2,1,True,False,50,flat,Sarria-Sant Gervasi,18.0
 8028,1300,2,1,False,False,67,flat,Gràcia,19.402985074626866
-8029,1400,3,1,True,True,93,,Sants-Montjuïc,15.053763440860216
 8030,650,1,1,False,False,55,flat,Gràcia,11.818181818181818
 8031,775,3,1,True,False,60,flat,Horta- Guinardo,12.916666666666666
 8032,1000,3,2,True,True,91,flat,Eixample,10.989010989010987
@@ -8027,7 +7765,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 8039,960,3,2,True,False,71,flat,Sants-Montjuïc,13.52112676056338
 8040,1700,3,2,True,False,144,flat,Eixample,11.805555555555555
 8041,825,1,1,True,False,45,flat,Eixample,18.33333333333333
-8042,825,1,1,False,False,53,,Ciutat Vella,15.566037735849056
 8043,1000,2,2,True,False,110,flat,Les Corts,9.090909090909092
 8044,650,1,1,False,False,42,flat,Gràcia,15.476190476190476
 8045,1250,4,2,True,True,100,flat,Horta- Guinardo,12.5
@@ -8044,7 +7781,6 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 8056,650,2,1,True,True,65,flat,Horta- Guinardo,10.0
 8057,750,1,1,True,True,50,study,Ciutat Vella,15.0
 8058,700,2,1,False,False,60,flat,Sants-Montjuïc,11.666666666666666
-8059,950,2,1,True,False,115,,Sants-Montjuïc,8.26086956521739
 8060,495,1,1,False,False,50,apartment,Ciutat Vella,9.9
 8061,1700,3,2,True,False,130,flat,Sarria-Sant Gervasi,13.076923076923077
 8062,900,2,1,True,False,80,flat,Les Corts,11.25
@@ -8098,21 +7834,18 @@ Unnamed: 0,price,rooms,bathroom,lift,terrace,square_meters,real_state,neighborho
 8110,900,1,1,True,False,45,flat,Ciutat Vella,20.0
 8111,995,3,1,True,False,62,flat,Eixample,16.048387096774192
 8112,900,2,2,True,False,83,flat,Sants-Montjuïc,10.843373493975903
-8113,725,1,2,False,False,55,,Ciutat Vella,13.181818181818182
 8114,950,2,1,True,True,68,flat,Sarria-Sant Gervasi,13.970588235294118
 8115,3600,2,1,True,True,100,flat,Sarria-Sant Gervasi,36.0
 8116,850,2,1,True,True,43,flat,Sant Andreu,19.76744186046512
 8117,758,2,1,True,False,49,flat,Sant Andreu,15.46938775510204
 8118,950,1,1,True,False,55,flat,Ciutat Vella,17.272727272727273
 8119,1700,3,2,True,False,115,flat,Eixample,14.782608695652174
-8120,1600,3,2,True,True,80,,Eixample,20.0
 8121,1400,3,2,True,False,100,flat,Eixample,14.0
 8122,650,1,1,False,False,22,flat,Eixample,29.545454545454547
 8123,700,3,1,False,False,64,flat,Horta- Guinardo,10.9375
 8124,1300,3,2,True,True,111,flat,Sant Martí,11.711711711711713
 8125,1800,2,1,True,True,85,flat,Eixample,21.176470588235293
 8126,1325,2,2,True,False,95,flat,Eixample,13.947368421052632
-8127,840,0,1,False,False,60,,Gràcia,14.0
 8128,1500,5,2,True,True,100,flat,Eixample,15.0
 8129,825,3,1,True,False,68,flat,Sant Andreu,12.132352941176473
 8130,1950,6,3,True,False,206,flat,Sarria-Sant Gervasi,9.466019417475728
